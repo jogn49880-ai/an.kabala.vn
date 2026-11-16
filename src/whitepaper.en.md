@@ -6,7 +6,7 @@ The whole system rests on four statements:
 
 1. **Diagnosis.** All suffering in life grows from two roots: *Greed* and *Ego*.
 2. **Core.** The remedy is *Contentment* (Biết Đủ, "knowing enough"): seeing and being at ease with what you already have.
-3. **Path.** Three steps: *Know yourself → True happiness → A meaningful life*.
+3. **Destination.** Three purposes but one destination: *Know yourself*. Reach it, and *True happiness* and *A meaningful life* are reached too. In the sentence "I want happiness", drop *I* and drop *Want*, and only *Happiness* remains, right now.
 4. **Structure of a life.** The *Circle of Hiếu Đạo*: from Peace comes gratitude to one's roots (Hiếu), then the Way (Đạo), Virtue (Đức), Blessing (Phúc), Abundance (Tài), and back to Peace.
 
 Three practices accompany it: *Peaceful Meditation* (Thiền An), *Contentment* and *Balance*.
@@ -92,17 +92,34 @@ Contentment consists of three trainable abilities:
 2. **Setting the point of enough** — for each thing (money, work, social media, possessions), answering "how much is enough for me?"
 3. **Stopping at enough** — and turning the surplus into giving.
 
-## 5. The Path to Peace: three steps
+## 5. Three purposes, one destination
 
-> **Source.** The Path to Peace has three steps: *Know yourself* (awareness of your own needs, wants and limits); *True happiness* (finding joy and satisfaction in simple, practical things); *A meaningful life* (seeking and fulfilling your purpose through action and relationships with others).
+> **Source.** The Path to Peace: *Know yourself* (awareness of your own needs, wants and limits); *True happiness* (finding joy and satisfaction in simple, practical things); *A meaningful life* (seeking and fulfilling your purpose through action and relationships with others).
 
-| Step | Guiding question | What to do | Signs you are on track |
-|---|---|---|---|
-| 1. Know yourself | What do I really need? What do I want? Where are my limits? | Separate *needs* from *wants*; recognise your own Greed and Ego | Less self-deception; less comparison |
-| 2. True happiness | Which simple things are nourishing me? | Practise Contentment; return to joys that cannot be bought | You can be glad today, with no conditions |
-| 3. A meaningful life | What do I live to give, and to whom? | Turn your peace into kind action and relationships | Your work is useful to others; relationships deepen |
+> **Author's clarification (November 2026).** These are three purposes but one destination: reach self-understanding, and the other two are reached as well.
 
-The steps follow in order. Without self-knowledge, happiness is borrowed. Without contentment, "meaning" easily becomes another costume for the Ego.
+### 5.1 "I want happiness"
+
+Anyone can say the sentence *I want happiness*. The Peaceful Way reads it like this:
+
+- Dropping **I** is dropping the ego, the self.
+- Dropping **Want** is dropping greed, and wishes for what does not suit you.
+- Only **Happiness** remains, and it means happiness in the present, right now.
+
+Happiness is therefore not a reward at the end of the road. It is what is left when the two words in front of it are put down.
+
+### 5.2 The order of things
+
+To drop "I" and "Want", one needs to understand the Circle of Hiếu Đạo, with An at its centre. Peaceful Meditation is the method for understanding An through meditation. When we are at peace, we understand ourselves; from there we know what we "want", and so recognise true happiness, and we know what to let go of (the "I", the ego), and so find the meaning of life.
+
+**Peaceful Meditation → An → Know yourself → True happiness and A meaningful life**
+
+| Knowing yourself, you know | What is let go | What appears |
+|---|---|---|
+| what you truly want | Want (greed, unsuitable wishes) | True happiness |
+| what you need to let go | I (the ego) | A meaningful life |
+
+> **Commentary.** Dropping "Want" does not mean having no wishes: a person who knows themselves sees more clearly what they truly want. Dropping "I" does not mean erasing yourself: what is let go is the inflated ego, selfish and lacking empathy.
 
 ## 6. The Circle of Hiếu Đạo
 
@@ -151,18 +168,27 @@ Contented abundance returns us to Peace; deeper Peace makes Hiếu more genuine;
 
 ### 7.1 Peaceful Meditation (Thiền An)
 
-Peaceful Meditation joins the stillness of meditation with the outlook of the Peaceful Way. It can be remembered as a simple sequence:
+> **Source (Mr.33, Hanoi, 1 November 2024).** Peaceful Meditation joins meditation with the Peaceful Way. Its aim is not only stillness and balance of mind but a deeper view of happiness and the meaning of life.
 
-**Be still → Observe → Return → Remain**
+It has three steps:
 
-1. **Be still.** Sit comfortably, back naturally upright, shoulders and face relaxed.
-2. **Observe.** Notice the breath; notice thoughts arriving and leaving, without judging. See which thoughts are Greed ("I want more") and which are Ego ("I must…").
-3. **Return.** Each time the mind runs off, gently bring it back by counting slowly from 1 to 6 and repeating; or by silently repeating a short phrase that is meaningful to you. The source text suggests "A Di Đà Phật" (Amitabha) or "Om Mani Padme Hum"; people of other traditions may use a phrase of their own, or simply the single word "An".
-4. **Remain.** When the mind has settled, stop counting and rest in that quiet.
+**Step 1 — Begin the spiritual journey.** Spirituality is the path by which a person can understand themselves, and from there find the meaning and purpose of life.
 
-Peaceful Meditation is not only for sitting. While working, give the task your whole attention, feeling each movement and each breath.
+**Step 2 — Recognise the value of stillness.** Stillness is the state of the soul when there is no distraction and no activity of thought. The body always has a way of restoring its own balance; when we are too active, energy goes to those activities, and only when we stop does it turn to healing within. The most basic and important effect of stillness is to re-establish balance, which is to say, healing.
 
-> **Commentary — suggested dose.** Start with 5 minutes each morning and build towards 15–20. Add three "one-minute pauses" during the day: before picking up your phone in the morning, before lunch, before sleep.
+**Step 3 — Practise.**
+
+1. **Any time:** at home or outside, in quiet or in noise, while doing something or doing nothing.
+2. **Any posture:** walking, standing, lying down, sitting.
+3. **Choose a way that suits you.**
+   - *When doing nothing, or caught up in thoughts:* count silently and slowly 1, 2, 3, 4, 5, 6, over and over, until the mind is empty; or silently repeat "A Di Đà Phật" (Amitabha) or "Om Mani Padme Hum"; or create a method of your own.
+   - *When working:* give the task your whole attention, feeling each movement and each breath, without thinking about the result or the end. What matters is being fully present, here and now.
+4. **Relax the mind:** when the mind starts to wander, bring it back to where it was focused.
+5. **Listen:** after that there is nothing to do; just listen to your own body and mind.
+
+Keep the practice going, continuously.
+
+> **Commentary.** The source lists six values of stillness (peace, focus, awareness, capacity to cope, creativity, growth of the soul) and describes healing as the author understands it; this edition has not checked those statements against scientific research. A suggested dose for beginners: 5 minutes each morning, plus three "one-minute pauses" during the day.
 
 ### 7.2 Contentment (Biết Đủ)
 
@@ -185,7 +211,7 @@ The exercises below are commentary:
 
 ### 8.1 The individual
 
-Use the three steps as a quarterly self-review: what do I need, what truly makes me glad, what am I giving. Under stress, use the quick question: "Is this Greed or Ego speaking?"
+Start from An: practise Peaceful Meditation daily. When the mind is quiet, review regularly: what do I truly want, and what do I need to let go? Under stress, use the quick question: "Is this I or Want speaking?"
 
 ### 8.2 The family
 
@@ -230,7 +256,7 @@ A system of thought becomes a tradition — and, further, a religion — not by 
 
 | Dimension | What the Peaceful Way has now | What must be built |
 |---|---|---|
-| Doctrinal | Greed and Ego; Contentment; three steps; the Circle | A stable, versioned root text; answers to the great questions (death, loss, injustice) |
+| Doctrinal | Greed and Ego; "I want happiness"; three purposes, one destination; Contentment; the Circle | A stable, versioned root text; answers to the great questions (death, loss, injustice) |
 | Ethical | Hiếu – Đạo – Đức – Phúc – Tài | A concrete code of conduct; guidance for hard cases |
 | Practical and ritual | Peaceful Meditation, Contentment, Balance | A daily, weekly and yearly rhythm; rites for life's milestones (birth, coming of age, marriage, death) |
 | Experiential | The peace found in practice | Honest accounts from practitioners; guidance for difficulties |
@@ -284,12 +310,12 @@ History shows that new spiritual movements easily slide into personality cults o
 | Đức | Virtue | Trained character |
 | Phúc | Blessing | Happiness born of good action |
 | Tài | Abundance | Wealth through contentment |
-| Thiền An | Peaceful Meditation | Be still → Observe → Return → Remain |
+| Thiền An | Peaceful Meditation | Meditation for understanding An |
 | Cân Bằng | Balance | Neglecting no area of life |
 
 ## Appendix B — One-day practice card
 
 - **Morning:** 5 minutes of Peaceful Meditation before picking up your phone. One intention for the day.
-- **During the day:** whatever you do, do it wholly. Under stress: breathe, count 1 to 6, ask "Greed or Ego?"
+- **During the day:** whatever you do, do it wholly. Under stress: count 1 to 6, ask "I or Want?"
 - **Afternoon:** one act of Hiếu — a call, a thank-you.
 - **Evening:** write three enoughs. One thing done well, one thing to mend.

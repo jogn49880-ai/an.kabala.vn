@@ -6,7 +6,7 @@ Toàn bộ hệ thống có thể tóm trong bốn mệnh đề:
 
 1. **Chẩn đoán.** Mọi khổ đau trong đời sống đều bắt nguồn từ hai gốc: *Lòng Tham* và *Cái Tôi*.
 2. **Cốt lõi.** Liều thuốc là *Biết Đủ*: nhận biết và hài lòng với những gì mình đang có.
-3. **Con đường.** Đi qua ba bước: *Thấu hiểu bản thân → Hạnh phúc chân thật → Ý nghĩa cuộc sống*.
+3. **Đích đến.** Ba mục đích nhưng một đích đến: *Thấu hiểu bản thân*. Đạt được điều này thì *Hạnh phúc chân thật* và *Ý nghĩa cuộc sống* cũng đạt được. Trong câu "Tôi muốn hạnh phúc", bỏ *Tôi* và bỏ *Muốn* thì chỉ còn *Hạnh Phúc*, ngay bây giờ.
 4. **Cấu trúc đời sống.** *Vòng tròn Hiếu Đạo*: từ An sinh Hiếu, từ Hiếu sinh Đạo, rồi Đức, Phúc, Tài, và trở về An.
 
 Ba phương pháp thực hành đi kèm là *Thiền An*, *Biết Đủ* và *Cân Bằng*.
@@ -92,17 +92,34 @@ Biết Đủ gồm ba năng lực có thể luyện:
 2. **Định được điểm đủ** — với từng thứ (tiền, công việc, mạng xã hội, đồ đạc), tự trả lời "bao nhiêu là đủ với tôi?".
 3. **Dừng lại ở điểm đủ** — và chuyển phần dư thành sự cho đi.
 
-## 5. Con đường để An: ba bước
+## 5. Ba mục đích, một đích đến
 
-> **Nguyên bản.** Con đường để An gồm ba bước: *Thấu hiểu bản thân* (tự nhận thức về nhu cầu, mong muốn và hạn chế của mình); *Hạnh phúc chân thật* (tìm niềm vui và sự hài lòng từ những điều giản đơn, thiết thực); *Ý nghĩa cuộc sống* (tìm kiếm và thực hiện mục đích sống qua hành động và quan hệ với người khác).
+> **Nguyên bản.** Con đường để An: *Thấu hiểu bản thân* (tự nhận thức về nhu cầu, mong muốn và hạn chế của bản thân); *Hạnh phúc chân thật* (tìm kiếm niềm vui và sự hài lòng từ những điều giản đơn và thiết thực); *Ý nghĩa cuộc sống* (tìm kiếm và thực hiện mục đích sống qua hành động và quan hệ với người khác).
 
-| Bước | Câu hỏi dẫn đường | Việc cần làm | Dấu hiệu đã đi đúng |
-|---|---|---|---|
-| 1. Thấu hiểu bản thân | Tôi thật sự cần gì? Tôi đang muốn gì? Giới hạn của tôi ở đâu? | Phân biệt *nhu cầu* với *mong muốn*; nhận ra Tham và Cái Tôi của riêng mình | Bớt tự lừa mình; bớt so sánh |
-| 2. Hạnh phúc chân thật | Điều giản đơn nào đang nuôi dưỡng tôi? | Thực hành Biết Đủ; trở về với những niềm vui không cần mua | Vui được ngay hôm nay, không cần điều kiện |
-| 3. Ý nghĩa cuộc sống | Tôi sống để góp gì, cho ai? | Biến sự an của mình thành hành động và quan hệ tử tế | Việc làm có ích cho người khác; quan hệ sâu hơn |
+> **Đính chính của tác giả (11/2026).** Đây là ba mục đích nhưng chỉ một đích đến: đạt được sự thấu hiểu bản thân thì hai điều kia cũng sẽ đạt được.
 
-Ba bước này nối tiếp nhau: không hiểu mình thì hạnh phúc là vay mượn; chưa an vui thì "ý nghĩa" dễ thành một hình thức khác của Cái Tôi.
+### 5.1 "Tôi muốn hạnh phúc"
+
+Ai cũng nói được câu *Tôi muốn hạnh phúc*. Đạo An đọc câu ấy như sau:
+
+- Bỏ **Tôi** là bỏ cái tôi, bản ngã.
+- Bỏ **Muốn** là bỏ lòng tham và mong cầu những điều không phù hợp.
+- Chỉ còn **Hạnh Phúc**, mang hàm ý hạnh phúc ở hiện tại, ngay bây giờ.
+
+Hạnh phúc vì thế không phải phần thưởng ở cuối đường. Nó là thứ còn lại khi hai chữ đứng trước được buông xuống.
+
+### 5.2 Trình tự
+
+Để bỏ "tôi" và "muốn", cần hiểu Vòng tròn Hiếu Đạo, với An là trung tâm. Thiền An là phương pháp giúp ta thấu hiểu An thông qua thiền định. Khi ta An, ta thấu hiểu bản thân; từ đó ta biết mình "muốn" gì để nhận ra hạnh phúc chân thật, và biết mình cần buông bỏ gì (Tôi, bản ngã) để tìm ra ý nghĩa cuộc sống.
+
+**Thiền An → An → Thấu hiểu bản thân → Hạnh phúc chân thật và Ý nghĩa cuộc sống**
+
+| Khi thấu hiểu bản thân, ta biết | Điều được buông | Điều hiện ra |
+|---|---|---|
+| mình thật sự muốn gì | Muốn (lòng tham, mong cầu không phù hợp) | Hạnh phúc chân thật |
+| mình cần buông gì | Tôi (cái tôi, bản ngã) | Ý nghĩa cuộc sống |
+
+> **Chú giải.** Bỏ "Muốn" không có nghĩa là hết mong muốn: người hiểu mình biết rõ hơn điều mình thật sự muốn. Bỏ "Tôi" không có nghĩa là xóa bản thân: điều được buông là cái tôi phình to, ích kỷ và thiếu đồng cảm.
 
 ## 6. Vòng tròn Hiếu Đạo
 
@@ -151,19 +168,27 @@ Tài biết đủ đưa ta về An; An sâu hơn làm Hiếu chân thật hơn; 
 
 ### 7.1 Thiền An
 
-Thiền An kết hợp sự tĩnh lặng của thiền với cái nhìn của Đạo An. Có thể nhớ bằng một chuỗi bốn bước:
+> **Nguyên bản (Mr.33, Hà Nội, 1/11/2024).** Thiền An được kết hợp từ thiền định và Đạo An. Mục tiêu của nó không chỉ là đạt được tĩnh lặng và cân bằng trong tâm trí mà còn cung cấp một cái nhìn sâu sắc hơn về hạnh phúc và ý nghĩa cuộc sống.
 
-**Tĩnh lặng → Quan sát → Quay về → An trú**
-*(Be still → Observe → Return → Remain)*
+Thiền An gồm ba bước:
 
-1. **Tĩnh lặng.** Ngồi thoải mái, lưng thẳng tự nhiên, thả lỏng vai và mặt.
-2. **Quan sát.** Thấy hơi thở, thấy ý nghĩ đến và đi, không phán xét. Thấy rõ ý nghĩ nào là Tham ("muốn thêm"), ý nghĩ nào là Cái Tôi ("tôi phải…").
-3. **Quay về.** Mỗi khi tâm chạy đi, nhẹ nhàng đưa nó trở về bằng cách đếm chậm từ 1 đến 6 rồi lặp lại; hoặc thầm niệm một câu ngắn có ý nghĩa với bạn. Tài liệu gốc gợi ý "A Di Đà Phật" hay "Om Mani Padme Hum"; người thuộc truyền thống khác có thể dùng câu của truyền thống mình, hoặc chỉ một chữ "An".
-4. **An trú.** Khi tâm đã lặng, thôi đếm, ở yên trong sự lặng ấy.
+**Bước 1 — Bắt đầu hành trình tâm linh.** Tâm linh là con đường để một người có thể thấu hiểu chính mình, từ đó tìm ra ý nghĩa và mục đích của cuộc sống.
 
-Thiền An không chỉ dành cho lúc ngồi. Khi đang làm việc, hãy tập trung trọn vẹn vào việc đó, cảm nhận từng động tác, từng hơi thở.
+**Bước 2 — Nhận ra giá trị của tĩnh lặng.** Tĩnh lặng là trạng thái của tâm hồn khi không có sự xao lãng hay hoạt động tư duy. Cơ thể luôn có cơ chế tự tái thiết lập sự cân bằng; khi ta hoạt động quá nhiều, năng lượng dành cho những việc đó, và chỉ khi ta thôi hoạt động thì năng lượng mới được tập trung chữa lành bên trong. Tác dụng cơ bản và quan trọng nhất của tĩnh lặng là thiết lập lại trạng thái cân bằng, hay còn gọi là chữa lành.
 
-> **Chú giải — liều lượng gợi ý.** Bắt đầu với 5 phút mỗi sáng; tăng dần lên 15–20 phút. Thêm ba lần "dừng một phút" trong ngày: trước khi mở điện thoại buổi sáng, trước bữa trưa, trước khi ngủ.
+**Bước 3 — Thực hành thiền định.**
+
+1. **Bất cứ lúc nào:** ở nhà hay bên ngoài, yên tĩnh hay ồn ào, đang làm một việc gì đó hoặc không làm gì cả.
+2. **Mọi tư thế:** đi, đứng, nằm, ngồi.
+3. **Chọn một cách phù hợp với bạn.**
+   - *Khi không làm gì, hoặc đang vướng vào suy nghĩ:* đếm thầm chậm rãi 1, 2, 3, 4, 5, 6 liên tục đến khi tâm trí trở nên trống rỗng; hoặc niệm thầm chậm rãi "A Di Đà Phật" hay "Om Mani Padme Hum"; hoặc tự sáng tạo phương pháp của riêng mình.
+   - *Khi đang làm việc:* tập trung hoàn toàn vào việc đó, cảm nhận từng động tác, từng hơi thở, không nghĩ về kết quả hay kết thúc. Điều quan trọng là hiện diện trọn vẹn tại đây và bây giờ.
+4. **Thả lỏng tâm trí:** khi tâm trí bắt đầu đi lung tung, đưa nó trở lại sự tập trung ban đầu.
+5. **Lắng nghe:** sau đó không phải làm gì cả, chỉ cần lắng nghe cơ thể và tâm trí của chính mình.
+
+Hãy duy trì thiền định liên tục.
+
+> **Chú giải.** Tài liệu gốc nêu sáu giá trị của tĩnh lặng (bình an, tập trung, nhận thức, khả năng xử lý, sáng tạo, phát triển tâm hồn) và mô tả cơ chế chữa lành theo cách hiểu của tác giả; ấn bản này chưa đối chiếu các nhận định ấy với nghiên cứu khoa học. Liều lượng gợi ý cho người mới: 5 phút mỗi sáng, cộng ba lần "dừng một phút" trong ngày.
 
 ### 7.2 Biết Đủ
 
@@ -186,7 +211,7 @@ Các bài tập dưới đây là chú giải:
 
 ### 8.1 Cá nhân
 
-Dùng ba bước của Con đường để An như một quy trình tự xét hằng quý: tôi cần gì, điều gì đang thật sự làm tôi vui, tôi đang góp gì. Khi căng thẳng, dùng câu hỏi nhanh: "Đây là Tham hay Cái Tôi đang nói?".
+Bắt đầu từ An: tập Thiền An mỗi ngày. Khi tâm yên, tự xét định kỳ: tôi thật sự muốn gì, và tôi cần buông gì. Khi căng thẳng, dùng câu hỏi nhanh: "Đây là Tôi hay Muốn đang nói?".
 
 ### 8.2 Gia đình
 
@@ -231,7 +256,7 @@ Một hệ tư tưởng trở thành một truyền thống — và xa hơn, m�
 
 | Chiều kích | Đạo An hiện có | Việc cần xây dựng |
 |---|---|---|
-| Giáo lý | Tham – Cái Tôi; Biết Đủ; ba bước; Vòng tròn Hiếu Đạo | Một văn bản gốc ổn định, có phiên bản; lời đáp cho các câu hỏi lớn (cái chết, mất mát, bất công) |
+| Giáo lý | Tham – Cái Tôi; "Tôi muốn hạnh phúc"; ba mục đích, một đích đến; Biết Đủ; Vòng tròn Hiếu Đạo | Một văn bản gốc ổn định, có phiên bản; lời đáp cho các câu hỏi lớn (cái chết, mất mát, bất công) |
 | Đạo đức | Hiếu – Đạo – Đức – Phúc – Tài | Bộ nguyên tắc ứng xử cụ thể; cách xử lý tình huống khó |
 | Thực hành, nghi thức | Thiền An, Biết Đủ, Cân Bằng | Nhịp ngày – tuần – năm; nghi thức cho các mốc đời người (sinh, trưởng thành, cưới, tang) |
 | Trải nghiệm | Sự an khi thực hành | Lời kể và ghi chép trung thực của người tập; cách hướng dẫn khi gặp khó |
@@ -285,12 +310,12 @@ Lịch sử cho thấy các phong trào tinh thần mới dễ trượt thành s
 | Đức | Virtue | Phẩm chất được rèn luyện |
 | Phúc | Blessing | Hạnh phúc sinh từ việc lành |
 | Tài | Abundance | Giàu có nhờ biết đủ |
-| Thiền An | Peaceful Meditation | Tĩnh lặng → Quan sát → Quay về → An trú |
+| Thiền An | Peaceful Meditation | Thiền định để thấu hiểu An |
 | Cân Bằng | Balance | Không bỏ quên vùng nào của đời sống |
 
 ## Phụ lục B — Thẻ thực hành một ngày
 
 - **Sáng:** 5 phút Thiền An trước khi mở điện thoại. Một ý định cho ngày.
-- **Trong ngày:** làm việc gì, trọn vẹn với việc đó. Khi căng thẳng: thở, đếm 1 đến 6, hỏi "Tham hay Cái Tôi?".
+- **Trong ngày:** làm việc gì, trọn vẹn với việc đó. Khi căng thẳng: đếm 1 đến 6, hỏi "Tôi hay Muốn?".
 - **Chiều:** một việc Hiếu — một cuộc gọi, một lời cảm ơn.
 - **Tối:** viết ba điều đủ. Một việc làm tốt, một việc cần sửa.

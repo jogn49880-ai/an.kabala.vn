@@ -6,11 +6,13 @@ import vi from './src/content.vi.mjs';
 import en from './src/content.en.mjs';
 
 const BASE = 'https://an.kabala.vn/';
+const PAGES = ['home', 'practice', 'self', 'wp', 'road'];
 const FILES = {
-  vi: { home: 'index.html', practice: 'thien-an-peaceful-meditation.html', wp: 'sach-trang.html', dir: '' },
-  en: { home: 'index.html', practice: 'peaceful-meditation.html', wp: 'whitepaper.html', dir: 'en/' },
+  vi: { home: 'index.html', practice: 'thien-an-peaceful-meditation.html', self: 'thau-hieu-ban-than.html', wp: 'sach-trang.html', road: 'lo-trinh.html', dir: '' },
+  en: { home: 'index.html', practice: 'peaceful-meditation.html', self: 'know-yourself.html', wp: 'whitepaper.html', road: 'roadmap.html', dir: 'en/' },
 };
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const json = (o) => esc(JSON.stringify(o));
 
 function layout(t, page, body) {
   const lang = t.lang;
@@ -51,7 +53,7 @@ function layout(t, page, body) {
     <a class="brand" href="${f.home}"><span class="mark" aria-hidden="true"></span><span>${esc(t.site)}</span><small>${esc(t.tagline)}</small></a>
     <button class="icon-btn menu-btn" type="button" aria-label="${esc(t.nav.menu)}" aria-expanded="false" aria-controls="nav">☰</button>
     <nav id="nav" class="nav" aria-label="${lang === 'vi' ? 'Chính' : 'Main'}">
-      ${link('home')}${link('practice')}${link('wp')}
+      ${PAGES.map(link).join('')}
       <a class="lang" href="${otherHref}" lang="${other}" hreflang="${other}">${esc(t.nav.other)}</a>
       <button class="icon-btn theme-btn" type="button" aria-label="${esc(t.nav.theme)}" title="${esc(t.nav.theme)}">◐</button>
     </nav>
@@ -64,7 +66,7 @@ ${body}
   <div class="wrap">
     <p><strong>${esc(t.footer.line)}</strong></p>
     <p>${esc(t.footer.note)}</p>
-    <p class="foot-links">${link('home')} · ${link('practice')} · ${link('wp')} · <a href="${otherHref}" lang="${other}">${esc(t.nav.other)}</a> · <a href="https://kabala.vn/" rel="noopener">${esc(t.footer.eco)}</a></p>
+    <p class="foot-links">${PAGES.map(link).join(' · ')} · <a href="${otherHref}" lang="${other}">${esc(t.nav.other)}</a> · <a href="https://kabala.vn/" rel="noopener">${esc(t.footer.eco)}</a></p>
   </div>
 </footer>
 <script src="${root}assets/js/app.js" defer></script>
@@ -72,6 +74,14 @@ ${body}
 </html>
 `;
 }
+
+const pageHead = (eyebrow, h, lead, extra = '') => `<section class="wrap section page-head">
+  <p class="eyebrow">${esc(eyebrow)}</p>
+  <h1>${esc(h)}</h1>
+  ${extra}<p class="lead">${esc(lead)}</p>
+</section>`;
+const quote = (text, cite) => `<blockquote class="source"><p>${esc(text)}</p><cite>${esc(cite)}</cite></blockquote>`;
+const flow = (a) => `<ol class="flow"><li>${esc(a[0])}</li><li class="gold">${esc(a[1])}</li><li class="key">${esc(a[2])}</li><li class="split"><span>${esc(a[3])}</span><span>${esc(a[4])}</span></li></ol>`;
 
 function circleHtml(c) {
   const ring = c.nodes.slice(1);
@@ -104,40 +114,36 @@ function circleHtml(c) {
 function home(t) {
   const h = t.home;
   const f = FILES[t.lang];
-  const anchors = ['#timer', '#journal', '#balance'];
+  const w = h.hero.words;
   return `<section class="hero">
-  <div class="wrap hero-grid">
-    <div>
-      <p class="eyebrow">${esc(h.hero.eyebrow)}</p>
-      <h1>${esc(h.hero.title)}</h1>
-      <p class="lead">${esc(h.hero.lead)}</p>
-      <p class="actions"><a class="btn primary" href="${f.practice}#timer">${esc(h.hero.cta1)}</a><a class="btn" href="${f.wp}">${esc(h.hero.cta2)}</a></p>
-    </div>
-    <div class="hero-art" aria-hidden="true"><span></span><span></span><span></span><b>An</b></div>
+  <div class="wrap narrow hero-center">
+    <p class="eyebrow">${esc(h.hero.eyebrow)}</p>
+    <h1 class="sentence"><button type="button" data-drop="toi" aria-pressed="false">${esc(w[0])}</button> <button type="button" data-drop="muon" aria-pressed="false">${esc(w[1])}</button> <span class="keep">${esc(w[2])}</span></h1>
+    <p class="sentence-msg" id="sentence-msg" aria-live="polite" data-start="${esc(h.hero.start)}" data-toi="${esc(h.hero.toi)}" data-muon="${esc(h.hero.muon)}" data-both="${esc(h.hero.both)}">${esc(h.hero.start)}</p>
+    <ul class="sentence-key"><li>${esc(h.hero.toi)}</li><li>${esc(h.hero.muon)}</li><li><strong>${esc(h.hero.both)}</strong></li></ul>
+    <p class="lead">${esc(h.hero.lead)}</p>
+    <p class="actions"><a class="btn primary" href="${f.practice}">${esc(h.hero.cta1)}</a><a class="btn" href="${f.self}">${esc(h.hero.cta2)}</a></p>
   </div>
-</section>
-
-<section class="wrap section">
-  <h2>${esc(h.essence.h)}</h2>
-  <ol class="essence">${h.essence.items.map(([k, v]) => `<li><strong>${esc(k)}</strong><span>${esc(v)}</span></li>`).join('')}</ol>
 </section>
 
 <section class="band">
   <div class="wrap section">
-    <h2>${esc(h.roots.h)}</h2>
-    <p class="intro">${esc(h.roots.intro)}</p>
-    <div class="grid two">${h.roots.items.map((r) => `<article class="card root">
-      <h3>${esc(r.name)}</h3><p class="voice">${esc(r.voice)}</p><p>${esc(r.text)}</p>
-      <ul>${r.signs.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p class="cure">${esc(r.cure)}</p>
-    </article>`).join('')}</div>
-    <p class="note">${esc(h.roots.note)}</p>
+    <h2>${esc(h.one.h)}</h2>
+    <p class="intro">${esc(h.one.intro)}</p>
+    ${flow(h.one.flow)}
+    <p class="note">${esc(h.one.text)}</p>
+    <dl class="apply three">${h.one.items.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>
   </div>
 </section>
 
 <section class="wrap section">
-  <h2>${esc(h.path.h)}</h2>
-  <p class="intro">${esc(h.path.intro)}</p>
-  <ol class="steps">${h.path.steps.map((s, i) => `<li><span class="num">${i + 1}</span><h3>${esc(s.name)}</h3><p>${esc(s.text)}</p><p class="ask">${esc(s.q)}</p></li>`).join('')}</ol>
+  <h2>${esc(h.roots.h)}</h2>
+  <p class="intro">${esc(h.roots.intro)}</p>
+  <div class="grid two">${h.roots.items.map((r) => `<article class="card root">
+    <h3>${esc(r.name)}</h3><p class="voice">${esc(r.voice)}</p><p>${esc(r.text)}</p>
+    <ul>${r.signs.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p class="cure">${esc(r.cure)}</p>
+  </article>`).join('')}</div>
+  <p class="note">${esc(h.roots.note)}</p>
 </section>
 
 <section class="band" id="circle">
@@ -150,7 +156,8 @@ function home(t) {
 
 <section class="wrap section">
   <h2>${esc(h.practices.h)}</h2>
-  <div class="grid three">${h.practices.items.map((p, i) => `<article class="card"><h3>${esc(p.name)}</h3><p>${esc(p.text)}</p><p><a class="more" href="${f.practice}${anchors[i]}">${esc(p.link)} →</a></p></article>`).join('')}</div>
+  <p class="intro">${esc(h.practices.intro)}</p>
+  <div class="grid three">${h.practices.items.map((p) => `<article class="card"><h3>${esc(p.name)}</h3><p>${esc(p.text)}</p><p><a class="more" href="${f[p.to]}${p.hash}">${esc(p.link)} →</a></p></article>`).join('')}</div>
 </section>
 
 <section class="band">
@@ -186,16 +193,29 @@ function home(t) {
 
 function practice(t) {
   const p = t.practice;
-  return `<section class="wrap section page-head">
-  <p class="eyebrow">${esc(t.site)} · ${esc(t.tagline)}</p>
-  <h1>${esc(p.h)}</h1>
-  <p class="lead">${esc(p.lead)}</p>
+  const f = FILES[t.lang];
+  const li = (a) => a.map((x) => `<li>${esc(x)}</li>`).join('');
+  return `${pageHead(`${t.site} · ${t.tagline}`, p.h, p.lead)}
+
+<section class="wrap section narrow">
+  <h2>${esc(p.s1.h)}</h2>
+  ${quote(p.s1.quote, t.common.source)}
+  <p>${esc(p.s1.text)}</p>
 </section>
 
-<section class="wrap section">
-  <h2>${esc(p.seq.h)}</h2>
-  <ol class="steps four">${p.seq.steps.map(([n, x], i) => `<li><span class="num">${i + 1}</span><h3>${esc(n)}</h3><p>${esc(x)}</p></li>`).join('')}</ol>
-  <p class="note">${esc(p.seq.note)}</p>
+<section class="band">
+  <div class="wrap section narrow">
+    <h2>${esc(p.s2.h)}</h2>
+    <p>${esc(p.s2.text)}</p>
+    <ol class="values">${li(p.s2.values)}</ol>
+    <p class="note">${esc(p.s2.heal)}</p>
+  </div>
+</section>
+
+<section class="wrap section narrow">
+  <h2>${esc(p.s3.h)}</h2>
+  <ol class="how">${p.s3.steps.map(([n, x], i) => `<li><h3>${esc(n)}</h3>${x ? `<p>${esc(x)}</p>` : ''}${i === 2 ? `<div class="grid two"><div class="card"><h4>${esc(p.s3.idleH)}</h4><ul>${li(p.s3.idle)}</ul></div><div class="card"><h4>${esc(p.s3.workH)}</h4><ul>${li(p.s3.work)}</ul></div></div>` : ''}</li>`).join('')}</ol>
+  <p class="ask">${esc(p.s3.keep)}</p>
 </section>
 
 <section class="band" id="timer">
@@ -211,38 +231,142 @@ function practice(t) {
   </div>
 </section>
 
-<section class="wrap section">
-  <h2>${esc(p.daily.h)}</h2>
-  <dl class="apply">${p.daily.items.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>
+<section class="wrap section narrow">
+  <p class="muted">${esc(p.credit)}</p>
+  <p class="note">${esc(p.caution)}</p>
+  <p class="actions"><span>${esc(p.next)}</span><a class="btn primary" href="${f.self}">${esc(t.nav.self)} →</a></p>
+</section>`;
+}
+
+function listTool(id, s, c, kinds) {
+  return `<form class="list-tool" data-list="${id}" data-empty="${esc(s.empty)}" data-remove="${esc(c.remove)}"${kinds ? ` data-kinds="${json(kinds)}"` : ''}>
+      <div class="list-add"><input type="text" maxlength="160" placeholder="${esc(s.ph)}" aria-label="${esc(s.ph)}" required>${kinds ? `<select aria-label="${esc(s.h)}">${kinds.map((k, i) => `<option value="${i}">${esc(k)}</option>`).join('')}</select>` : ''}<button class="btn primary" type="submit">${esc(c.add)}</button></div>
+      <div class="list-out${kinds ? ' two-col' : ''}"></div>
+    </form>`;
+}
+
+function self(t) {
+  const s = t.self;
+  const c = t.common;
+  const f = FILES[t.lang];
+  const m = s.mirror;
+  const qs = m.muon.flatMap((q, i) => [['m', q], ['t', m.toi[i]]]);
+  const ranges = (prefix, names, qs2) => names.map((a, i) => `<label><span>${esc(a)}${qs2 ? `<small>${esc(qs2[i])}</small>` : ''}</span><input type="range" min="1" max="5" value="3" name="${prefix}${i}" data-area="${esc(a)}"><output>3</output></label>`).join('\n      ');
+  const names = t.home.circle.nodes.map((n) => n.name);
+  return `${pageHead(`${t.site} · ${t.tagline}`, s.h, s.lead, quote(s.source, c.source))}
+
+<section class="wrap section narrow">
+  ${flow(t.home.one.flow)}
+  <div class="note"><strong>${esc(s.first.h)}.</strong> ${esc(s.first.text)} <a href="${f.practice}#timer">${esc(s.first.cta)} →</a></div>
+  <p class="muted">${esc(c.device)}</p>
 </section>
 
-<section class="band" id="journal">
+<section class="band" id="mirror">
   <div class="wrap section narrow">
-    <h2>${esc(p.journal.h)}</h2>
-    <p class="intro">${esc(p.journal.intro)}</p>
+    <h2>${esc(m.h)}</h2>
+    <p class="intro">${esc(m.intro)}</p>
+    <form id="mirror-form" class="quiz">
+      <p class="scale-legend"><span>1 = ${esc(m.scale[0])}</span><span>5 = ${esc(m.scale[1])}</span></p>
+      <ol>${qs.map(([g, q], i) => `<li data-g="${g}"><p id="mq${i}">${esc(q)}</p><div class="scale" role="radiogroup" aria-labelledby="mq${i}">${[0, 1, 2, 3, 4].map((v) => `<label><input type="radio" name="mq${i}" value="${v}"><span>${v + 1}</span></label>`).join('')}</div></li>`).join('')}</ol>
+    </form>
+    <div id="mirror-result" class="result" data-levels="${json(m.levels)}" data-msg="${json(m.msg)}">
+      <div class="meter"><span>${esc(m.labels[0])}</span><div class="track"><i id="bar-m"></i></div><b id="lvl-m">–</b></div>
+      <div class="meter"><span>${esc(m.labels[1])}</span><div class="track"><i id="bar-t"></i></div><b id="lvl-t">–</b></div>
+      <p id="mirror-msg" role="status">${esc(m.wait)}</p>
+    </div>
+    <p class="muted">${esc(m.note)}</p>
+  </div>
+</section>
+
+<section class="wrap section narrow" id="wants">
+  <p class="eyebrow">${esc(s.wants.to)}</p>
+  <h2>${esc(s.wants.h)}</h2>
+  <p class="intro">${esc(s.wants.intro)}</p>
+  ${listTool('wants', s.wants, c, s.wants.kinds)}
+  <p class="note">${esc(s.wants.after)}</p>
+  <div id="journal">
+    <h3 class="sub">${esc(s.journal.h)}</h3>
+    <p class="intro">${esc(s.journal.intro)}</p>
     <form id="journal-form" class="journal">
-      ${p.journal.ph.map((ph, i) => `<label><span class="num">${i + 1}</span><input type="text" name="e${i}" maxlength="200" placeholder="${esc(ph)}" aria-label="${esc(p.journal.label)} ${i + 1}"></label>`).join('\n      ')}
-      <p class="actions"><button class="btn primary" type="submit">${esc(p.journal.save)}</button><span id="journal-status" role="status" data-saved="${esc(p.journal.saved)}"></span></p>
-      <p class="muted">${esc(p.journal.days)}: <span id="journal-days">0</span></p>
+      ${s.journal.ph.map((ph, i) => `<label><span class="num">${i + 1}</span><input type="text" name="e${i}" maxlength="200" placeholder="${esc(ph)}" aria-label="${esc(s.journal.label)} ${i + 1}"></label>`).join('\n      ')}
+      <p class="actions"><button class="btn primary" type="submit">${esc(s.journal.save)}</button><span id="journal-status" role="status" data-saved="${esc(s.journal.saved)}"></span></p>
+      <p class="muted">${esc(s.journal.days)}: <span id="journal-days">0</span></p>
     </form>
   </div>
 </section>
 
-<section class="wrap section narrow" id="balance">
-  <h2>${esc(p.balance.h)}</h2>
-  <p class="intro">${esc(p.balance.intro)}</p>
-  <form id="balance-form" class="balance">
-    ${p.balance.areas.map((a, i) => `<label><span>${esc(a)}</span><input type="range" min="1" max="5" value="3" name="b${i}" data-area="${esc(a)}"><output>3</output></label>`).join('\n    ')}
-  </form>
-  <p class="note" id="balance-result" data-result="${esc(p.balance.result)}" data-even="${esc(p.balance.even)}">${esc(p.balance.even)}</p>
+<section class="band" id="letgo">
+  <div class="wrap section narrow">
+    <p class="eyebrow">${esc(s.letgo.to)}</p>
+    <h2>${esc(s.letgo.h)}</h2>
+    <p class="intro">${esc(s.letgo.intro)}</p>
+    ${listTool('letgo', s.letgo, c)}
+    <h3 class="sub">${esc(s.letgo.purposeH)}</h3>
+    <p class="purpose"><span>${esc(s.letgo.purpose[0])}</span><input type="text" maxlength="120" data-save="purpose-what" placeholder="${esc(s.letgo.ph1)}" aria-label="${esc(s.letgo.purpose[0])}"><span>${esc(s.letgo.purpose[1])}</span><input type="text" maxlength="120" data-save="purpose-whom" placeholder="${esc(s.letgo.ph2)}" aria-label="${esc(s.letgo.purpose[1])}"></p>
+    <p class="note">${esc(s.letgo.after)}</p>
+  </div>
+</section>
+
+<section class="wrap section" id="my-circle">
+  <h2>${esc(s.circle.h)}</h2>
+  <p class="intro">${esc(s.circle.intro)}</p>
+  <div class="radar-layout">
+    <form id="circle-form" class="balance wide">
+      ${ranges('c', names, s.circle.qs)}
+    </form>
+    <div><div id="radar" class="radar"></div><p class="note" id="circle-result" data-result="${esc(s.circle.result)}" data-even="${esc(s.circle.even)}">${esc(s.circle.even)}</p></div>
+  </div>
+</section>
+
+<section class="band" id="balance">
+  <div class="wrap section narrow">
+    <h2>${esc(s.balance.h)}</h2>
+    <p class="intro">${esc(s.balance.intro)}</p>
+    <form id="balance-form" class="balance">
+      ${ranges('b', s.balance.areas)}
+    </form>
+    <p class="note" id="balance-result" data-result="${esc(s.balance.result)}" data-even="${esc(s.balance.even)}">${esc(s.balance.even)}</p>
+  </div>
+</section>`;
+}
+
+function road(t) {
+  const r = t.road;
+  const f = FILES[t.lang];
+  const p = r.progress;
+  return `${pageHead(`${t.site} · ${t.tagline}`, r.h, r.lead)}
+
+<section class="wrap section">
+  <h2>${esc(r.today.h)}</h2>
+  <div class="grid three">${r.today.items.map(([n, x, to, hash], i) => `<a class="card link-card" href="${f[to]}${hash}"><span class="num">${i + 1}</span><h3>${esc(n)}</h3><p>${esc(x)}</p></a>`).join('')}</div>
 </section>
 
 <section class="band">
   <div class="wrap section">
-    <h2>${esc(p.plan.h)}</h2>
-    <p class="intro">${esc(p.plan.intro)}</p>
-    <div class="grid three">${p.plan.weeks.map(([n, x]) => `<article class="card"><h3>${esc(n)}</h3><p>${esc(x)}</p></article>`).join('')}</div>
-    <p class="note">${esc(p.caution)}</p>
+    <h2>${esc(r.plan.h)}</h2>
+    <p class="intro">${esc(r.plan.intro)}</p>
+    <div class="grid three">${r.plan.weeks.map(([n, x]) => `<article class="card"><h3>${esc(n)}</h3><p>${esc(x)}</p></article>`).join('')}</div>
+  </div>
+</section>
+
+<section class="wrap section" id="progress">
+  <h2>${esc(p.h)}</h2>
+  <dl class="stats" data-none="${esc(p.none)}">${p.stats.map((x, i) => `<div><dd id="stat-${i}">–</dd><dt>${esc(x)}</dt></div>`).join('')}</dl>
+  <h3 class="sub">${esc(p.dataH)}</h3>
+  <p class="intro">${esc(p.dataText)}</p>
+  <p class="actions" id="data-tools" data-ask="${esc(p.delAsk)}" data-done="${esc(p.done)}" data-bad="${esc(p.bad)}">
+    <button class="btn" type="button" id="data-export">${esc(p.exp)}</button>
+    <label class="btn">${esc(p.imp)}<input type="file" id="data-import" accept="application/json,.json" hidden></label>
+    <button class="btn" type="button" id="data-delete">${esc(p.del)}</button>
+    <span id="data-status" role="status"></span>
+  </p>
+</section>
+
+<section class="band">
+  <div class="wrap section narrow">
+    <h2>${esc(r.site.h)}</h2>
+    <p class="intro">${esc(r.site.intro)}</p>
+    <ol class="phases">${r.site.phases.map(([st, n, x]) => `<li class="st-${st}"><span class="tag">${esc(r.site.status[st])}</span><h3>${esc(n)}</h3><p>${esc(x)}</p></li>`).join('')}</ol>
   </div>
 </section>`;
 }
@@ -274,14 +398,13 @@ ${html}
 
 const redirect = (to, lang) => `<!doctype html><html lang="${lang}"><head><meta charset="utf-8"><title>Đạo An</title><meta http-equiv="refresh" content="0; url=${to}"><link rel="canonical" href="${to}"></head><body><a href="${to}">Đạo An</a></body></html>\n`;
 
+const render = { home, practice, self, wp: whitepaper, road };
 mkdirSync('en', { recursive: true });
 for (const t of [vi, en]) {
   const f = FILES[t.lang];
-  writeFileSync(f.dir + f.home, layout(t, 'home', home(t)));
-  writeFileSync(f.dir + f.practice, layout(t, 'practice', practice(t)));
-  writeFileSync(f.dir + f.wp, layout(t, 'wp', whitepaper(t)));
+  for (const p of PAGES) writeFileSync(f.dir + f[p], layout(t, p, render[p](t)));
 }
 // Keep the old site's addresses working.
 writeFileSync('gioi-thieu.html', redirect('index.html', 'vi'));
 writeFileSync('en/peaceful-way.html', redirect('index.html', 'en'));
-console.log('Built 6 pages + 2 redirects.');
+console.log(`Built ${PAGES.length * 2} pages + 2 redirects.`);
