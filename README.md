@@ -6,11 +6,15 @@ Trang tĩnh song ngữ Việt – Anh cho Đạo An, hệ thống triết lý do
 
 | Tiếng Việt | English | Nội dung |
 |---|---|---|
-| `index.html` | `en/index.html` | Giới thiệu: "Tôi Muốn Hạnh Phúc", ba mục đích một đích đến, hai gốc khổ đau, Vòng tròn Hiếu Đạo (tương tác), ứng dụng, đối chiếu, hỏi đáp |
-| `thien-an-peaceful-meditation.html` | `en/peaceful-meditation.html` | Thiền An theo nguyên bản: ba bước, cách thực hành, đồng hồ đếm 1–6 |
-| `thau-hieu-ban-than.html` | `en/know-yourself.html` | Công cụ: soi gương "Tôi" và "Muốn", điều tôi thật sự muốn, sổ Biết Đủ, điều tôi buông, vòng tròn của tôi, Cân Bằng |
-| `sach-trang.html` | `en/whitepaper.html` | Sách trắng (có mục lục, in ra PDF bằng nút In) |
-| `lo-trinh.html` | `en/roadmap.html` | Bắt đầu hôm nay, 21 ngày thực hành, tiến trình và dữ liệu của người dùng, hướng phát triển của trang |
+| `index.html` | `en/index.html` | Trang chủ: "Tôi Muốn Hạnh Phúc", ba mục đích một đích đến, hai gốc khổ đau, Vòng tròn Hiếu Đạo |
+| `bai-giang.html` + `bai-giang-NN-*.html` | `en/teachings.html` + `en/lesson-NN-*.html` | Mười hai bài giảng |
+| `thien-an-peaceful-meditation.html` | `en/peaceful-meditation.html` | Thiền An (phương pháp bổ trợ) và đồng hồ đếm 1–6 |
+| `thau-hieu-ban-than.html` | `en/know-yourself.html` | Công cụ: soi gương "Tôi" và "Muốn", điều tôi muốn, sổ Biết Đủ, điều tôi buông, vòng tròn của tôi, Cân Bằng |
+| `doi-song.html` | `en/daily-life.html` | Mười tình huống đời sống |
+| `vong-an.html` | `en/circles.html` | Nhịp một ngày, Lời An, cách mở Vòng An, chín cam kết |
+| `sach-trang.html` | `en/whitepaper.html` | Sách trắng (in ra PDF bằng nút In) |
+| `hoi-dap.html` | `en/questions.html` | Hỏi đáp và thuật ngữ |
+| `lo-trinh.html` | `en/roadmap.html` | 21 ngày thực hành, tiến trình và dữ liệu của người dùng, hướng phát triển |
 
 `gioi-thieu.html` và `en/peaceful-way.html` chuyển hướng về trang chủ để giữ địa chỉ cũ.
 
@@ -18,23 +22,30 @@ Trang tĩnh song ngữ Việt – Anh cho Đạo An, hệ thống triết lý do
 
 Nội dung nằm trong `src/`; các tệp HTML được sinh ra từ đó, nên hãy sửa ở `src/` rồi dựng lại:
 
-- `src/content.vi.mjs`, `src/content.en.mjs`: chữ của mọi trang trừ sách trắng
-- `src/whitepaper.vi.md`, `src/whitepaper.en.md`: sách trắng (Markdown)
-- `build.mjs`: khuôn mẫu trang
-- `assets/css/style.css`, `assets/js/app.js`: giao diện và tương tác (sửa trực tiếp, không cần dựng lại)
+- `src/content.*.mjs`, `src/more.*.mjs`: chữ của các trang (tệp `more` được trộn đè lên tệp `content`)
+- `src/lessons.*.md`: bài giảng, mỗi bài bắt đầu bằng dòng `# Tên bài`, dòng `>` đầu tiên là lời gốc
+- `src/whitepaper.*.md`: sách trắng
+- `build.mjs`: khuôn mẫu trang, hình vẽ, và các tệp sinh tự động (`sw.js`, `sitemap.xml`, `robots.txt`, `llms.txt`, `manifest.webmanifest`, `404.html`)
+- `assets/css/style.css`, `assets/js/app.js`: giao diện và tương tác
+
+Sau mỗi lần sửa, kể cả CSS và JS, hãy dựng lại để bản lưu ngoại tuyến được cập nhật:
 
 ```bash
 npm install
 npm run build
 ```
 
-## Thư viện miễn phí
+## Thêm một ngôn ngữ
 
-- [marked](https://marked.js.org/) (MIT): chuyển Markdown của sách trắng thành HTML lúc dựng
-- Google Fonts: Be Vietnam Pro, Noto Serif (OFL)
+Sao chép bốn tệp `content`, `more`, `lessons`, `whitepaper` của tiếng Anh sang mã ngôn ngữ mới, dịch, rồi thêm ngôn ngữ đó vào `FILES`, `SLUGS` và vòng lặp cuối `build.mjs`.
 
-Trang không cần thư viện nào lúc chạy. Mọi ghi chép của người dùng chỉ lưu trong trình duyệt của họ (localStorage, khóa bắt đầu bằng `an-`); trang Lộ trình cho tải về, nạp lại và xóa.
+## Độ bền
 
-## Nguồn nội dung
+- Trang không gọi tới dịch vụ bên ngoài nào: phông chữ nằm trong `assets/fonts` (giấy phép SIL OFL), không có thư viện lúc chạy.
+- Sau lần mở đầu tiên, toàn bộ trang dùng được khi không có mạng và cài được như ứng dụng.
+- Mọi ghi chép của người dùng chỉ lưu trong trình duyệt của họ (khóa bắt đầu bằng `an-`); trang Lộ trình cho tải về, nạp lại và xóa.
+- Thư viện duy nhất, [marked](https://marked.js.org/) (MIT), chỉ dùng lúc dựng.
 
-Nguyên bản gồm hai bài của Mr.33 (Đạo An, Việt Trì 10/04/2025; Thiền An, Hà Nội 1/11/2024) và đính chính của tác giả tháng 11/2026 (ba mục đích, một đích đến; "Tôi Muốn Hạnh Phúc"). Sách trắng tách hai lớp: *Nguyên bản* và *Chú giải* (diễn giải, mở rộng, đề xuất của ấn bản này, cần người khởi xướng thẩm định).
+## Nguồn
+
+Đạo An của Mr.33: bài Thiền An (Hà Nội, 1/11/2024), bài Đạo An (Việt Trì, 10/04/2025), và các lời giải thích của tác giả tháng 11/2026 ("Tôi Muốn Hạnh Phúc"; ba mục đích, một đích đến; Thiền An là phương pháp bổ trợ). Bài giảng, công cụ và sách trắng được soạn theo các nguồn đó.

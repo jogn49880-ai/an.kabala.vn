@@ -102,7 +102,7 @@ export default {
       items: [
         ['Bỏ “Muốn” thì tôi còn động lực sống không?', 'Còn. Bỏ “Muốn” là buông lòng tham và những mong cầu không phù hợp. Khi thấu hiểu bản thân, bạn biết rõ hơn mình thật sự muốn gì.'],
         ['Bỏ “Tôi” có phải là xóa bỏ bản thân?', 'Không. Điều được buông là cái tôi phình to: ích kỷ, tự cao, thiếu đồng cảm. Bạn vẫn là bạn, nhẹ hơn.'],
-        ['Tôi cần bắt đầu từ đâu?', 'Từ An. Tập Thiền An vài phút, bất cứ lúc nào và ở tư thế nào. Khi tâm yên, việc hiểu mình tự đến.'],
+        ['Tôi cần bắt đầu từ đâu?', 'Từ câu “Tôi muốn hạnh phúc”. Đọc bài giảng đầu tiên, rồi soi gương “Tôi” và “Muốn”. Thiền An là phương pháp bổ trợ khi tâm bạn cần yên.'],
         ['Đạo An có phải là một tôn giáo không?', 'Hiện nay Đạo An là một triết lý sống thực hành. Nó không đòi hỏi bạn từ bỏ niềm tin nào.'],
         ['Quan hệ gia đình tôi phức tạp. Hiếu áp dụng thế nào?', 'Hiếu là nội tâm thanh thản chứ không phải sự ép buộc. Hiếu không buộc ai chịu đựng sự tổn hại.'],
         ['Đạo An có liên quan đến Đại sư Đạo An của Phật giáo không?', 'Không. Đạo An của Kabala là một khái niệm hiện đại; sự trùng tên là ngẫu nhiên.'],
@@ -257,7 +257,7 @@ export default {
     desc: 'Sách trắng Đạo An (Peaceful Way): “Tôi muốn hạnh phúc”, ba mục đích một đích đến, Vòng tròn Hiếu Đạo, Thiền An, ứng dụng và lộ trình thành một truyền thống sống.',
     h: 'Sách trắng Đạo An',
     sub: 'Hệ thống triết lý, phương pháp thực hành và lộ trình trở thành một truyền thống sống',
-    meta: 'Ấn bản 1.1 · Bản thảo để thẩm định · Tháng 11, 2026',
+    meta: 'Ấn bản 1.2 · Nguồn: Mr.33 · Tháng 11, 2026',
     toc: 'Mục lục', print: 'In / Lưu PDF',
   },
 };

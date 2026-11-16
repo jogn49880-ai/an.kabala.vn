@@ -1,6 +1,6 @@
 ## Tóm lược
 
-Đạo An (Peaceful Way) là một hệ thống tư tưởng – triết lý sống do Kabala khởi xướng (bản gốc: Mr.33, Việt Trì, 10/04/2025), với mục đích chính: giúp con người nhận ra hạnh phúc thực sự của mình và sống một cuộc đời có ý nghĩa.
+Đạo An (Peaceful Way) là một hệ thống tư tưởng – triết lý sống của Mr.33, trong hệ sinh thái Kabala, với mục đích chính: giúp con người nhận ra hạnh phúc thực sự của mình và sống một cuộc đời có ý nghĩa.
 
 Toàn bộ hệ thống có thể tóm trong bốn mệnh đề:
 
@@ -9,11 +9,11 @@ Toàn bộ hệ thống có thể tóm trong bốn mệnh đề:
 3. **Đích đến.** Ba mục đích nhưng một đích đến: *Thấu hiểu bản thân*. Đạt được điều này thì *Hạnh phúc chân thật* và *Ý nghĩa cuộc sống* cũng đạt được. Trong câu "Tôi muốn hạnh phúc", bỏ *Tôi* và bỏ *Muốn* thì chỉ còn *Hạnh Phúc*, ngay bây giờ.
 4. **Cấu trúc đời sống.** *Vòng tròn Hiếu Đạo*: từ An sinh Hiếu, từ Hiếu sinh Đạo, rồi Đức, Phúc, Tài, và trở về An.
 
-Ba phương pháp thực hành đi kèm là *Thiền An*, *Biết Đủ* và *Cân Bằng*.
+Mọi thứ bắt đầu từ câu "Tôi muốn hạnh phúc". Các phương pháp thực hành đi kèm là *Biết Đủ*, *Cân Bằng* và *Thiền An*; Thiền An là phương pháp bổ trợ cho hành trình tìm bình an trong nội tâm.
 
 Sách trắng này sắp xếp lại các ý trên thành một chỉnh thể mạch lạc, chú giải để dễ ứng dụng trong gia đình, trường học, công việc và cộng đồng, đồng thời vạch ra lộ trình để Đạo An có thể trưởng thành từ một triết lý cá nhân thành một truyền thống thực hành mở cho toàn thế giới.
 
-> **Cách đọc tài liệu này.** Phần *Nguyên bản* là các mệnh đề đã được Kabala công bố về Đạo An. Phần *Chú giải* là diễn giải, mở rộng và đề xuất của ấn bản này, cần được người khởi xướng thẩm định trước khi trở thành văn bản chính thức. Hai lớp được đánh dấu rõ ở từng mục.
+> **Cách đọc tài liệu này.** Phần *Nguyên bản* là lời của Mr.33. Phần *Chú giải* là diễn giải và hướng dẫn ứng dụng. Hai lớp được đánh dấu rõ ở từng mục.
 
 ## 1. Vì sao cần Đạo An
 
@@ -110,9 +110,9 @@ Hạnh phúc vì thế không phải phần thưởng ở cuối đường. Nó 
 
 ### 5.2 Trình tự
 
-Để bỏ "tôi" và "muốn", cần hiểu Vòng tròn Hiếu Đạo, với An là trung tâm. Thiền An là phương pháp giúp ta thấu hiểu An thông qua thiền định. Khi ta An, ta thấu hiểu bản thân; từ đó ta biết mình "muốn" gì để nhận ra hạnh phúc chân thật, và biết mình cần buông bỏ gì (Tôi, bản ngã) để tìm ra ý nghĩa cuộc sống.
+Để bỏ "tôi" và "muốn", cần hiểu Vòng tròn Hiếu Đạo, với An là trung tâm. Thiền An là phương pháp bổ trợ, giúp ta thấu hiểu An thông qua thiền định. Khi ta An, ta thấu hiểu bản thân; từ đó ta biết mình "muốn" gì để nhận ra hạnh phúc chân thật, và biết mình cần buông bỏ gì (Tôi, bản ngã) để tìm ra ý nghĩa cuộc sống.
 
-**Thiền An → An → Thấu hiểu bản thân → Hạnh phúc chân thật và Ý nghĩa cuộc sống**
+[[flow]]
 
 | Khi thấu hiểu bản thân, ta biết | Điều được buông | Điều hiện ra |
 |---|---|---|
@@ -125,7 +125,7 @@ Hạnh phúc vì thế không phải phần thưởng ở cuối đường. Nó 
 
 > **Nguyên bản.** Vòng tròn Hiếu Đạo là khái niệm trung tâm của Đạo An, gồm Hiếu – Đạo – Đức – Phúc – Tài. Mỗi khía cạnh liên kết hài hòa với nhau và tạo ra một chu trình liên tục giữa các giá trị đạo đức và thành tựu trong đời sống. Chữ "An" là gốc, là trung tâm: mọi điều tốt đẹp và giá trị thực sự trong cuộc sống đều khởi nguồn từ trạng thái nội tâm bình an, tĩnh tại. Đó là một vòng tuần hoàn bất tận, luôn bắt đầu và kết thúc tại chữ "An".
 
-**An → Hiếu → Đạo → Đức → Phúc → Tài → An**
+[[circle]]
 
 An ở tâm vòng tròn: vừa là điểm xuất phát, vừa là nơi trở về. Năm chữ còn lại là năm chặng mà sự an ấy đi qua khi bước vào đời sống.
 
@@ -211,7 +211,7 @@ Các bài tập dưới đây là chú giải:
 
 ### 8.1 Cá nhân
 
-Bắt đầu từ An: tập Thiền An mỗi ngày. Khi tâm yên, tự xét định kỳ: tôi thật sự muốn gì, và tôi cần buông gì. Khi căng thẳng, dùng câu hỏi nhanh: "Đây là Tôi hay Muốn đang nói?".
+Bắt đầu từ câu "Tôi muốn hạnh phúc". Tự xét định kỳ: tôi thật sự muốn gì, và tôi cần buông gì. Khi căng thẳng, dùng câu hỏi nhanh: "Đây là Tôi hay Muốn đang nói?".
 
 ### 8.2 Gia đình
 

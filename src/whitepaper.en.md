@@ -1,6 +1,6 @@
 ## Abstract
 
-Đạo An (the Peaceful Way) is a system of thought and a philosophy of living initiated by Kabala in Vietnam (source text: Mr.33, Việt Trì, 10 April 2025). Its main purpose: to help people recognise their own true happiness and live a meaningful life.
+Đạo An (the Peaceful Way) is a system of thought and a philosophy of living by Mr.33, within the Kabala ecosystem in Vietnam. Its main purpose: to help people recognise their own true happiness and live a meaningful life.
 
 The whole system rests on four statements:
 
@@ -9,11 +9,11 @@ The whole system rests on four statements:
 3. **Destination.** Three purposes but one destination: *Know yourself*. Reach it, and *True happiness* and *A meaningful life* are reached too. In the sentence "I want happiness", drop *I* and drop *Want*, and only *Happiness* remains, right now.
 4. **Structure of a life.** The *Circle of Hiếu Đạo*: from Peace comes gratitude to one's roots (Hiếu), then the Way (Đạo), Virtue (Đức), Blessing (Phúc), Abundance (Tài), and back to Peace.
 
-Three practices accompany it: *Peaceful Meditation* (Thiền An), *Contentment* and *Balance*.
+Everything begins with the sentence "I want happiness". The practices that accompany it are *Contentment*, *Balance* and *Peaceful Meditation* (Thiền An); meditation is a supporting method for the journey towards peace within.
 
 This white paper arranges those ideas into one coherent whole, adds commentary so they can be applied in families, schools, workplaces and communities, and sets out a roadmap by which the Peaceful Way could mature from a personal philosophy into a living tradition open to the whole world.
 
-> **How to read this paper.** Passages marked *Source* are statements Kabala has published about Đạo An. Passages marked *Commentary* are interpretation, extension and proposals made in this edition; they need the initiator's review before becoming official text. The two layers are marked throughout.
+> **How to read this paper.** Passages marked *Source* are the words of Mr.33. Passages marked *Commentary* are interpretation and guidance for applying them. The two layers are marked throughout.
 
 ## 1. Why the Peaceful Way
 
@@ -110,9 +110,9 @@ Happiness is therefore not a reward at the end of the road. It is what is left w
 
 ### 5.2 The order of things
 
-To drop "I" and "Want", one needs to understand the Circle of Hiếu Đạo, with An at its centre. Peaceful Meditation is the method for understanding An through meditation. When we are at peace, we understand ourselves; from there we know what we "want", and so recognise true happiness, and we know what to let go of (the "I", the ego), and so find the meaning of life.
+To drop "I" and "Want", one needs to understand the Circle of Hiếu Đạo, with An at its centre. Peaceful Meditation is a supporting method for understanding An through meditation. When we are at peace, we understand ourselves; from there we know what we "want", and so recognise true happiness, and we know what to let go of (the "I", the ego), and so find the meaning of life.
 
-**Peaceful Meditation → An → Know yourself → True happiness and A meaningful life**
+[[flow]]
 
 | Knowing yourself, you know | What is let go | What appears |
 |---|---|---|
@@ -125,7 +125,7 @@ To drop "I" and "Want", one needs to understand the Circle of Hiếu Đạo, wit
 
 > **Source.** The Circle of Hiếu Đạo is the central concept of the Peaceful Way. It consists of Hiếu – Đạo – Đức – Phúc – Tài. Each aspect links harmoniously with the others and forms a continuous cycle between moral values and achievement in life. "An" is the root and the centre: everything good and of real value in life begins from a peaceful, still inner state. It is an endless cycle that always begins and ends at "An".
 
-**An → Hiếu → Đạo → Đức → Phúc → Tài → An**
+[[circle]]
 
 An sits at the centre: both the starting point and the place of return. The five other words are five stages that peace passes through as it enters daily life.
 
@@ -211,7 +211,7 @@ The exercises below are commentary:
 
 ### 8.1 The individual
 
-Start from An: practise Peaceful Meditation daily. When the mind is quiet, review regularly: what do I truly want, and what do I need to let go? Under stress, use the quick question: "Is this I or Want speaking?"
+Start from the sentence "I want happiness". Review regularly: what do I truly want, and what do I need to let go? Under stress, use the quick question: "Is this I or Want speaking?"
 
 ### 8.2 The family
 

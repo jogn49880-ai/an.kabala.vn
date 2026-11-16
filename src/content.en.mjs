@@ -102,7 +102,7 @@ export default {
       items: [
         ['If I drop “Want”, will I have any motivation left?', 'Yes. Dropping “Want” means letting go of greed and of wishes that do not suit you. When you know yourself, you see more clearly what you truly want.'],
         ['Does dropping “I” mean erasing myself?', 'No. What is let go is the inflated ego: selfishness, arrogance, lack of empathy. You are still you, lighter.'],
-        ['Where do I start?', 'With An. Practise Peaceful Meditation for a few minutes, at any time and in any posture. When the mind is quiet, self-understanding follows.'],
+        ['Where do I start?', 'With the sentence “I want happiness”. Read the first teaching, then use the “I” and “Want” mirror. Peaceful Meditation is a supporting method for when your mind needs settling.'],
         ['Is the Peaceful Way a religion?', 'Today it is a practical philosophy of living. It does not ask you to give up any belief.'],
         ['My family is complicated. How does Hiếu apply?', 'Hiếu is inner serenity, not obligation. It never obliges anyone to endure harm.'],
         ['Is this related to the Buddhist master Dao’an?', 'No. Kabala’s Đạo An is a modern concept; the shared name is a coincidence.'],
@@ -257,7 +257,7 @@ export default {
     desc: 'White paper of Đạo An, the Peaceful Way: “I want happiness”, three purposes and one destination, the Circle of Hiếu Đạo, Peaceful Meditation, applications, and a roadmap to a living tradition.',
     h: 'The Peaceful Way: a white paper',
     sub: 'A philosophy, a method of practice, and a roadmap towards a living tradition',
-    meta: 'Edition 1.1 · Draft for review · November 2026',
+    meta: 'Edition 1.2 · Source: Mr.33 · November 2026',
     toc: 'Contents', print: 'Print / Save as PDF',
   },
 };

@@ -253,3 +253,11 @@
     $$('.doc h2[id]').forEach(function (h) { io.observe(h); });
   }
 })();
+
+// Offline: register the service worker (generated at build time) from the site root.
+(function () {
+  if (!('serviceWorker' in navigator) || location.protocol === 'file:') return;
+  var s = document.querySelector('script[src$="assets/js/app.js"]');
+  var root = s ? s.getAttribute('src').replace('assets/js/app.js', '') : './';
+  window.addEventListener('load', function () { navigator.serviceWorker.register(root + 'sw.js').catch(function () { /* offline support is optional */ }); });
+})();
