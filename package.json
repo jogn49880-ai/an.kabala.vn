@@ -1,0 +1,14 @@
+{
+  "name": "dao-an",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Đạo An (Peaceful Way) — static bilingual site and white paper",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "npx --yes serve -l 4173 ."
+  },
+  "devDependencies": {
+    "marked": "^12.0.2"
+  }
+}
