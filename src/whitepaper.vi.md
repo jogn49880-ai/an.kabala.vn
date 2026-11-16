@@ -1,6 +1,6 @@
 ## Tóm lược
 
-Đạo An (Peaceful Way) là một hệ thống tư tưởng – triết lý sống do Kabala khởi xướng, với một mục đích duy nhất: giúp con người nhận ra hạnh phúc thực sự của mình và sống một cuộc đời có ý nghĩa.
+Đạo An (Peaceful Way) là một hệ thống tư tưởng – triết lý sống do Kabala khởi xướng (bản gốc: Mr.33, Việt Trì, 10/04/2025), với mục đích chính: giúp con người nhận ra hạnh phúc thực sự của mình và sống một cuộc đời có ý nghĩa.
 
 Toàn bộ hệ thống có thể tóm trong bốn mệnh đề:
 
@@ -47,15 +47,19 @@ Con người hiện đại có nhiều hơn bất kỳ thế hệ nào trước 
 
 ## 3. Chẩn đoán: hai gốc của khổ đau
 
-> **Nguyên bản.** Nền tảng của Đạo An dựa trên nhận thức rằng mọi khổ đau trong cuộc sống đều bắt nguồn từ lòng tham và cái tôi. Nhận thức và kiểm soát được hai điều này là điều kiện để sống hạnh phúc và ý nghĩa.
+> **Nguyên bản.** Nền tảng của Đạo An dựa trên nhận thức rằng mọi khổ đau trong cuộc sống đều bắt nguồn từ lòng tham và cái tôi. Việc nhận thức và kiểm soát lòng tham và cái tôi được xem là quan trọng để hướng tới một cuộc sống hạnh phúc và ý nghĩa. Bằng cách giảm bớt những ham muốn không cần thiết và sống một cuộc đời khiêm tốn, chúng ta có thể tìm thấy sự bình yên nội tâm và hài hòa trong mối quan hệ với người khác.
 
 ### 3.1 Lòng Tham — "chưa đủ"
 
-Lòng Tham không chỉ là tham tiền. Đó là mọi sự bám víu vào ý nghĩ *phải có thêm thì mới ổn*: thêm tài sản, thêm thành tích, thêm lời khen, thêm trải nghiệm, thậm chí thêm sự bình an. Dấu hiệu của Tham là niềm vui luôn nằm ở tương lai và không bao giờ đến lượt hiện tại.
+> **Nguyên bản.** Lòng tham là sự ham muốn quá mức đối với vật chất, quyền lực, hoặc sự công nhận từ người khác. Nó không chỉ giới hạn ở tiền bạc, tài sản, mà còn bao gồm khao khát quyền lực, danh tiếng và sự chú ý. Lòng tham khiến con người không bao giờ hài lòng với những gì họ có, luôn muốn nhiều hơn, dẫn đến sự không an lòng và khổ đau.
+
+**Chú giải.** Dấu hiệu của Tham là niềm vui luôn nằm ở tương lai và không bao giờ đến lượt hiện tại.
 
 ### 3.2 Cái Tôi — "tôi phải hơn"
 
-Cái Tôi là thói quen đặt hình ảnh của mình vào trung tâm mọi việc: phải đúng, phải thắng, phải được nhìn nhận. Dấu hiệu của Cái Tôi là dễ tổn thương, hay so sánh, khó xin lỗi, khó lắng nghe.
+> **Nguyên bản.** Cái tôi liên quan đến bản ngã, tự trọng, và cách chúng ta nhận thức về bản thân trong quan hệ với thế giới xung quanh. Một cái tôi quá phình to có thể dẫn đến sự ích kỷ, tự cao tự đại và thiếu đồng cảm. Khi cái tôi chi phối, con người đặt nhu cầu và mong muốn của bản thân lên trên tất cả, từ đó gây ra xung đột và bất hòa.
+
+**Chú giải.** Dấu hiệu của Cái Tôi là dễ tổn thương, hay so sánh, khó xin lỗi, khó lắng nghe.
 
 ### 3.3 Bảng nhận diện
 
@@ -71,9 +75,9 @@ Cái Tôi là thói quen đặt hình ảnh của mình vào trung tâm mọi vi
 
 ## 4. Nguyên lý cốt lõi: Biết Đủ
 
-> **Nguyên bản.** Biết Đủ là hướng đến việc nhận thức và hài lòng với những gì mình có, từ đó tạo nên sự an yên và hài hòa trong tâm hồn và cuộc sống.
+> **Nguyên bản.** Cốt lõi của Đạo An là sự biết đủ: hướng đến việc nhận thức và hài lòng với những gì có, từ đó tạo nên sự an yên và hài hòa trong tâm hồn và cuộc sống.
 
-Biết Đủ thường bị hiểu lầm thành an phận. Hai điều này khác nhau ở gốc:
+Phần còn lại của mục này là chú giải. Biết Đủ thường bị hiểu lầm thành an phận. Hai điều này khác nhau ở gốc:
 
 | | Biết Đủ | An phận |
 |---|---|---|
@@ -102,41 +106,41 @@ Ba bước này nối tiếp nhau: không hiểu mình thì hạnh phúc là vay
 
 ## 6. Vòng tròn Hiếu Đạo
 
-> **Nguyên bản.** Vòng tròn Hiếu Đạo là khái niệm trung tâm của Đạo An, gồm Hiếu – Đạo – Đức – Phúc – Tài. Đó là một vòng tuần hoàn bất tận, luôn bắt đầu và kết thúc tại chữ "An".
+> **Nguyên bản.** Vòng tròn Hiếu Đạo là khái niệm trung tâm của Đạo An, gồm Hiếu – Đạo – Đức – Phúc – Tài. Mỗi khía cạnh liên kết hài hòa với nhau và tạo ra một chu trình liên tục giữa các giá trị đạo đức và thành tựu trong đời sống. Chữ "An" là gốc, là trung tâm: mọi điều tốt đẹp và giá trị thực sự trong cuộc sống đều khởi nguồn từ trạng thái nội tâm bình an, tĩnh tại. Đó là một vòng tuần hoàn bất tận, luôn bắt đầu và kết thúc tại chữ "An".
 
 **An → Hiếu → Đạo → Đức → Phúc → Tài → An**
 
 An ở tâm vòng tròn: vừa là điểm xuất phát, vừa là nơi trở về. Năm chữ còn lại là năm chặng mà sự an ấy đi qua khi bước vào đời sống.
 
-### 6.1 Hiếu — biết ơn nguồn cội
+### 6.1 Hiếu — làm cha mẹ yên lòng
 
-- **Nguyên bản:** tôn trọng và yêu thương cha mẹ, người lớn tuổi và những người có công với mình.
-- **Chú giải:** Hiếu là bài học đầu tiên về việc *mình không tự có mình*. Người biết ơn nguồn cội thì Cái Tôi tự nhỏ lại. Mở rộng ra, nguồn cội gồm cha mẹ, ông bà tổ tiên, thầy cô, những người đã giúp mình, cộng đồng, và thiên nhiên nuôi sống mình.
+- **Nguyên bản:** tôn trọng và yêu thương cha mẹ, người lớn tuổi và những người có công với mình. Hiếu không phải là sự ép buộc bởi trách nhiệm hay những áp lực từ vật chất, danh vọng; Hiếu là trạng thái nội tâm thanh thản, giúp cha mẹ an tâm, yên lòng, và từ đó chính ta cũng tìm thấy sự bình an thật sự.
+- **Chú giải:** Hiếu cũng là bài học đầu tiên về việc *mình không tự có mình*. Người biết ơn nguồn cội thì Cái Tôi tự nhỏ lại. Mở rộng ra, nguồn cội gồm cha mẹ, ông bà tổ tiên, thầy cô, những người đã giúp mình, cộng đồng, và thiên nhiên nuôi sống mình.
 - **Thực hành:** hỏi thăm và lắng nghe cha mẹ; nói lời cảm ơn cụ thể; chăm sóc khi còn có thể; tưởng nhớ người đã khuất.
 - **Tránh hiểu lầm:** Hiếu không phải là phục tùng mù quáng, cũng không buộc ai phải chịu đựng sự bạo hành. Hiếu là biết ơn và có trách nhiệm, đi cùng sự sáng suốt.
 
 ### 6.2 Đạo — con đường
 
-- **Nguyên bản:** theo đuổi con đường đạo đức.
-- **Chú giải:** từ lòng biết ơn, người ta tự hỏi "tôi nên sống thế nào cho xứng đáng?". Đạo là hướng đi được chọn một cách có ý thức, thay cho việc trôi theo thói quen hay đám đông.
+- **Nguyên bản:** theo đuổi con đường đạo đức và lý tưởng trong cuộc sống. Đạo là con đường sống do chính sự bình an nội tâm dẫn dắt; người sống theo Đạo An không bị dao động bởi các tác động bên ngoài, luôn giữ tâm thế vững vàng, thanh thản dù cuộc sống nhiều chông gai.
+- **Chú giải:** Đạo là hướng đi được chọn một cách có ý thức, thay cho việc trôi theo thói quen hay đám đông.
 - **Thực hành:** viết ra ba nguyên tắc sống của mình; trước quyết định lớn, hỏi "việc này có đúng với con đường của tôi không?".
 
 ### 6.3 Đức — phẩm chất
 
-- **Nguyên bản:** phát triển phẩm chất đạo đức.
-- **Chú giải:** Đạo là hướng, Đức là bước chân. Đức hình thành từ việc lặp lại điều đúng trong những việc nhỏ: trung thực, giữ lời, khiêm tốn, tử tế, kiên nhẫn.
+- **Nguyên bản:** phát triển và duy trì các phẩm chất đạo đức cao quý. Đức được hình thành từ những trải nghiệm và nhận thức sâu sắc về chính mình; không chỉ là phẩm chất tốt đẹp bề ngoài mà là trạng thái tâm hồn cân bằng, tử tế và chân thành với mọi người.
+- **Chú giải:** Đạo là hướng, Đức là bước chân. Đức lớn lên từ việc lặp lại điều đúng trong những việc nhỏ: trung thực, giữ lời, khiêm tốn, tử tế, kiên nhẫn.
 - **Thực hành:** mỗi tuần chọn một phẩm chất để luyện; cuối ngày tự xét một việc làm tốt và một việc cần sửa.
 
 ### 6.4 Phúc — phước lành
 
-- **Nguyên bản:** tạo ra và trải nghiệm phước lành, hạnh phúc từ hành động đạo đức.
-- **Chú giải:** Phúc không phải thứ cầu xin mà có; Phúc là kết quả tự nhiên của Đức — lòng tin của người khác, quan hệ bền, giấc ngủ yên, một gia đình hòa thuận. Phúc còn là phần mình để lại cho người sau.
+- **Nguyên bản:** tạo ra và trải nghiệm phước lành, hạnh phúc từ hành động đạo đức. Phúc không chỉ là sự giàu sang, sung túc về vật chất, mà hơn hết là trạng thái an nhiên, viên mãn, hòa hợp trong mọi mối quan hệ và ý nghĩa sâu sắc trong cuộc sống.
+- **Chú giải:** Phúc không phải thứ cầu xin mà có; Phúc đến từ Đức — lòng tin của người khác, quan hệ bền, giấc ngủ yên, một gia đình hòa thuận. Phúc còn là phần mình để lại cho người sau.
 - **Thực hành:** mỗi ngày làm một việc tử tế không cần ai biết.
 
 ### 6.5 Tài — sự giàu có từ biết đủ
 
-- **Nguyên bản:** đạt được sự giàu có thông qua sự biết đủ, không chỉ về tiền bạc mà còn trong mọi khía cạnh của cuộc sống.
-- **Chú giải:** Tài đứng cuối vòng tròn là có chủ ý: của cải đến sau đạo đức và được định nghĩa bằng *đủ*, không bằng *nhiều*. Tài gồm tiền bạc, tài năng, thời gian, sức khỏe và các mối quan hệ. Tài kiếm được chân chính, dùng đúng chỗ và biết sẻ chia thì nuôi lại An; Tài không có điểm dừng thì kéo người ta về Tham.
+- **Nguyên bản:** đạt được sự giàu có thông qua sự biết đủ, không chỉ về tiền bạc mà còn trong mọi khía cạnh của cuộc sống. Khi đã đạt tới trạng thái Phúc viên mãn, tự nhiên sẽ đạt được Tài; Tài không chỉ là vật chất mà còn là sự phong phú về trí tuệ, cảm xúc và khả năng chia sẻ với cộng đồng.
+- **Chú giải:** Tài đứng cuối vòng tròn: của cải đến sau đạo đức và được định nghĩa bằng *đủ*, không bằng *nhiều*. Tài kiếm được chân chính, dùng đúng chỗ và biết sẻ chia thì nuôi lại An; Tài không có điểm dừng thì kéo người ta về Tham.
 - **Thực hành:** xác định "con số đủ" của mình; trích một phần cố định để cho đi; không kiếm tiền bằng việc mình thấy hổ thẹn.
 
 ### 6.6 Vì sao là vòng tròn
@@ -162,6 +166,10 @@ Thiền An không chỉ dành cho lúc ngồi. Khi đang làm việc, hãy tập
 > **Chú giải — liều lượng gợi ý.** Bắt đầu với 5 phút mỗi sáng; tăng dần lên 15–20 phút. Thêm ba lần "dừng một phút" trong ngày: trước khi mở điện thoại buổi sáng, trước bữa trưa, trước khi ngủ.
 
 ### 7.2 Biết Đủ
+
+> **Nguyên bản.** Hướng đến sự biết ơn và hài lòng với những gì đã có.
+
+Các bài tập dưới đây là chú giải:
 
 - **Ba điều đủ mỗi tối:** viết ba điều hôm nay mình đã có đủ.
 - **Câu hỏi trước khi mua / nhận thêm việc:** "Mình cần, hay mình muốn? Có rồi thì có an hơn không?"
@@ -256,7 +264,8 @@ Lịch sử cho thấy các phong trào tinh thần mới dễ trượt thành s
 
 ## 12. Giới hạn và câu hỏi mở
 
-- Đạo An đang ở giai đoạn đầu; chính tài liệu gốc cũng tự nhận là một bản nháp đang hoàn thiện.
+- Đạo An đang ở giai đoạn đầu; chính tài liệu gốc (Mr.33, Việt Trì, 10/04/2025) cũng tự nhận là một bản nháp đang hoàn thiện.
+- Tài liệu gốc nêu Đạo An không chỉ giúp cá nhân phát triển đạo đức và tâm linh mà còn hướng đến một xã hội yên bình và hài hòa; phần xã hội này chưa được triển khai chi tiết.
 - Chưa có nghiên cứu độc lập đo lường hiệu quả của các thực hành này. Nên bắt đầu bằng việc ghi nhận có hệ thống trải nghiệm của người tập.
 - "Mọi khổ đau đều từ Tham và Cái Tôi" là một mệnh đề về khổ đau *tâm lý*. Đau đớn do bệnh tật, nghèo đói, bạo lực, bất công cần được giải quyết bằng hành động thực tế; Đạo An chỉ giúp ta không cộng thêm khổ đau bên trong vào đó.
 - Các nghi thức, câu chuyện và cơ cấu tổ chức còn cần được cộng đồng cùng xây dựng.

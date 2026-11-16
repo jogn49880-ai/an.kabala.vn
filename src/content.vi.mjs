@@ -4,7 +4,7 @@ export default {
   tagline: 'Peaceful Way',
   nav: { home: 'Đạo An', practice: 'Thiền An', wp: 'Sách trắng', other: 'English', theme: 'Đổi giao diện sáng / tối', menu: 'Mở trình đơn' },
   footer: {
-    line: 'Đạo An (Peaceful Way) là hệ thống triết lý do Kabala khởi xướng.',
+    line: 'Đạo An (Peaceful Way) là hệ thống triết lý do Kabala khởi xướng. Bản gốc: Mr.33, Việt Trì, 10/04/2025.',
     note: 'Nội dung cốt lõi luôn miễn phí. Đạo An không thay thế chăm sóc y tế hay tư vấn tâm lý.',
     eco: 'Hệ sinh thái Kabala',
   },
@@ -32,10 +32,10 @@ export default {
       h: 'Hai gốc của khổ đau',
       intro: 'Phần lớn nỗi bất an không đến từ hoàn cảnh, mà từ hai giọng nói bên trong. Nhận ra được chúng là đã đi nửa đường.',
       items: [
-        { name: 'Lòng Tham', voice: '“Chưa đủ.”', text: 'Bám vào ý nghĩ phải có thêm thì mới ổn: thêm tiền, thêm thành tích, thêm lời khen. Niềm vui luôn nằm ở tương lai.', signs: ['Sốt ruột, sợ mất', 'Làm quá sức, mua để bù đắp', 'Đạt rồi vẫn thấy thiếu'], cure: 'Đối trị: Biết Đủ' },
-        { name: 'Cái Tôi', voice: '“Tôi phải hơn.”', text: 'Đặt hình ảnh của mình vào trung tâm mọi việc: phải đúng, phải thắng, phải được công nhận.', signs: ['Tự ái, ganh tị', 'Khó xin lỗi, khó lắng nghe', 'Luôn so sánh'], cure: 'Đối trị: Khiêm tốn và Hiếu' },
+        { name: 'Lòng Tham', voice: '“Chưa đủ.”', text: 'Ham muốn quá mức đối với vật chất, quyền lực hoặc sự công nhận. Không bao giờ hài lòng với những gì mình có, luôn muốn nhiều hơn.', signs: ['Sốt ruột, sợ mất', 'Làm quá sức, mua để bù đắp', 'Đạt rồi vẫn thấy thiếu'], cure: 'Đối trị: Biết Đủ' },
+        { name: 'Cái Tôi', voice: '“Tôi phải hơn.”', text: 'Cái tôi phình to dẫn đến ích kỷ, tự cao và thiếu đồng cảm: đặt nhu cầu của mình lên trên tất cả, gây xung đột và bất hòa.', signs: ['Tự ái, ganh tị', 'Khó xin lỗi, khó lắng nghe', 'Luôn so sánh'], cure: 'Đối trị: Khiêm tốn và Hiếu' },
       ],
-      note: 'Đạo An không bảo bạn diệt ham muốn hay xóa bản thân. Việc cần làm là nhận ra và kiểm soát, không phải đè nén.',
+      note: 'Việc cần làm là nhận thức và kiểm soát: giảm bớt những ham muốn không cần thiết và sống khiêm tốn, để tìm thấy bình yên nội tâm và hài hòa với người khác.',
     },
     path: {
       h: 'Con đường để An',
@@ -49,14 +49,14 @@ export default {
     circle: {
       h: 'Vòng tròn Hiếu Đạo',
       intro: 'Một vòng tuần hoàn bất tận, luôn bắt đầu và kết thúc tại chữ An. Chọn từng chữ để xem ý nghĩa và cách thực hành.',
-      labels: { source: 'Nguyên bản', meaning: 'Diễn giải', practice: 'Thực hành hôm nay', ask: 'Tự hỏi' },
+      labels: { source: 'Nguyên bản', meaning: 'Giải thích', practice: 'Thực hành hôm nay', ask: 'Tự hỏi' },
       nodes: [
-        { key: 'an', name: 'An', gloss: 'Tâm của vòng tròn', source: 'Điểm bắt đầu và kết thúc của vòng tròn.', meaning: 'Tâm vững, sáng và đủ, không phụ thuộc hoàn cảnh có như ý hay không. An không phải là không có sóng; An là có điểm tựa khi sóng đến.', practice: 'Năm phút Thiền An trước khi mở điện thoại.', ask: 'Ngay lúc này, tôi đang thiếu điều gì thật sự?' },
-        { key: 'hieu', name: 'Hiếu', gloss: 'Biết ơn nguồn cội', source: 'Tôn trọng và yêu thương cha mẹ, người lớn tuổi và những người có công với mình.', meaning: 'Bài học đầu tiên rằng mình không tự có mình. Người biết ơn thì Cái Tôi tự nhỏ lại. Hiếu không phải phục tùng mù quáng.', practice: 'Gọi cho cha mẹ hoặc một người từng giúp bạn, và lắng nghe.', ask: 'Tôi đang nợ ai một lời cảm ơn?' },
-        { key: 'dao', name: 'Đạo', gloss: 'Con đường', source: 'Theo đuổi con đường đạo đức.', meaning: 'Một hướng đi được chọn có ý thức, thay cho việc trôi theo thói quen hay đám đông.', practice: 'Viết ra ba nguyên tắc sống của bạn.', ask: 'Việc này có đúng với con đường của tôi không?' },
-        { key: 'duc', name: 'Đức', gloss: 'Phẩm chất', source: 'Phát triển phẩm chất đạo đức.', meaning: 'Đạo là hướng, Đức là bước chân: trung thực, giữ lời, khiêm tốn, tử tế trong những việc nhỏ.', practice: 'Chọn một phẩm chất để luyện trong tuần này.', ask: 'Hôm nay tôi đã làm đúng điều gì, cần sửa điều gì?' },
-        { key: 'phuc', name: 'Phúc', gloss: 'Phước lành', source: 'Tạo ra và trải nghiệm phước lành, hạnh phúc từ hành động đạo đức.', meaning: 'Phúc không cầu xin mà có. Đó là kết quả tự nhiên của Đức: lòng tin, quan hệ bền, giấc ngủ yên.', practice: 'Làm một việc tử tế không cần ai biết.', ask: 'Tôi đang để lại gì cho người sau?' },
-        { key: 'tai', name: 'Tài', gloss: 'Giàu có nhờ biết đủ', source: 'Đạt được sự giàu có thông qua sự biết đủ, không chỉ về tiền bạc mà trong mọi khía cạnh của cuộc sống.', meaning: 'Tài đứng cuối là có chủ ý: của cải đến sau đạo đức và được đo bằng đủ, không bằng nhiều. Tài biết đủ thì nuôi lại An.', practice: 'Viết ra “con số đủ” của bạn, và phần bạn sẽ cho đi.', ask: 'Với tôi, bao nhiêu là đủ?' },
+        { key: 'an', name: 'An', gloss: 'Tâm của vòng tròn', source: 'Chữ “An” là gốc, là trung tâm. Mọi điều tốt đẹp và giá trị thực sự trong cuộc sống đều khởi nguồn từ trạng thái nội tâm bình an, tĩnh tại.', meaning: 'Tâm vững, sáng và đủ, không phụ thuộc hoàn cảnh có như ý hay không. An không phải là không có sóng; An là có điểm tựa khi sóng đến.', practice: 'Năm phút Thiền An trước khi mở điện thoại.', ask: 'Ngay lúc này, tôi đang thiếu điều gì thật sự?' },
+        { key: 'hieu', name: 'Hiếu', gloss: 'Biết ơn nguồn cội', source: 'Tôn trọng và yêu thương cha mẹ, người lớn tuổi và những người có công với mình.', meaning: 'Hiếu không phải sự ép buộc bởi trách nhiệm hay áp lực từ vật chất, danh vọng. Đó là trạng thái nội tâm thanh thản, giúp cha mẹ an tâm, yên lòng; từ đó chính ta cũng tìm thấy bình an.', practice: 'Gọi cho cha mẹ hoặc một người từng giúp bạn, và lắng nghe.', ask: 'Cha mẹ có đang yên lòng về tôi không?' },
+        { key: 'dao', name: 'Đạo', gloss: 'Con đường', source: 'Theo đuổi con đường đạo đức và lý tưởng trong cuộc sống.', meaning: 'Con đường sống do chính sự bình an nội tâm dẫn dắt. Người sống theo Đạo không bị dao động bởi tác động bên ngoài, giữ tâm thế vững vàng dù cuộc sống nhiều chông gai.', practice: 'Viết ra ba nguyên tắc sống của bạn.', ask: 'Việc này có đúng với con đường của tôi không?' },
+        { key: 'duc', name: 'Đức', gloss: 'Phẩm chất', source: 'Phát triển và duy trì các phẩm chất đạo đức cao quý.', meaning: 'Hình thành từ trải nghiệm và nhận thức sâu sắc về chính mình. Không chỉ là phẩm chất bề ngoài, mà là tâm hồn cân bằng, tử tế và chân thành với mọi người.', practice: 'Chọn một phẩm chất để luyện trong tuần này.', ask: 'Hôm nay tôi đã làm đúng điều gì, cần sửa điều gì?' },
+        { key: 'phuc', name: 'Phúc', gloss: 'Phước lành', source: 'Tạo ra và trải nghiệm phước lành, hạnh phúc từ hành động đạo đức.', meaning: 'Không chỉ là giàu sang, sung túc về vật chất, mà là trạng thái an nhiên, viên mãn, hòa hợp trong mọi mối quan hệ và ý nghĩa sâu sắc trong cuộc sống.', practice: 'Làm một việc tử tế không cần ai biết.', ask: 'Tôi đang để lại gì cho người sau?' },
+        { key: 'tai', name: 'Tài', gloss: 'Giàu có nhờ biết đủ', source: 'Đạt được sự giàu có thông qua sự biết đủ, không chỉ về tiền bạc mà trong mọi khía cạnh của cuộc sống.', meaning: 'Khi Phúc đã viên mãn, Tài tự nhiên đến. Tài không chỉ là vật chất mà còn là sự phong phú về trí tuệ, cảm xúc và khả năng chia sẻ với cộng đồng.', practice: 'Viết ra “con số đủ” của bạn, và phần bạn sẽ cho đi.', ask: 'Với tôi, bao nhiêu là đủ?' },
       ],
     },
     practices: {

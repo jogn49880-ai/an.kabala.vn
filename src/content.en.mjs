@@ -4,7 +4,7 @@ export default {
   tagline: 'Peaceful Way',
   nav: { home: 'Peaceful Way', practice: 'Meditation', wp: 'White paper', other: 'Tiếng Việt', theme: 'Toggle light / dark theme', menu: 'Open menu' },
   footer: {
-    line: 'Đạo An (the Peaceful Way) is a philosophy initiated by Kabala, Vietnam.',
+    line: 'Đạo An (the Peaceful Way) is a philosophy initiated by Kabala, Vietnam. Source text: Mr.33, Việt Trì, 10 April 2025.',
     note: 'The core teachings are always free. The Peaceful Way is not a substitute for medical or psychological care.',
     eco: 'Kabala ecosystem',
   },
@@ -32,10 +32,10 @@ export default {
       h: 'The two roots of suffering',
       intro: 'Most unrest comes not from circumstances but from two inner voices. Recognising them is half the journey.',
       items: [
-        { name: 'Greed', voice: '“Not enough.”', text: 'Clinging to the thought that you will be fine once you have more: more money, more achievement, more praise. Joy always lives in the future.', signs: ['Impatience, fear of loss', 'Overwork, buying to compensate', 'Reaching the goal and still feeling short'], cure: 'Remedy: Contentment' },
-        { name: 'Ego', voice: '“I must be more.”', text: 'Placing your own image at the centre of everything: being right, winning, being recognised.', signs: ['Wounded pride, envy', 'Hard to apologise, hard to listen', 'Constant comparison'], cure: 'Remedy: Humility and gratitude' },
+        { name: 'Greed', voice: '“Not enough.”', text: 'Excessive desire for possessions, power or recognition. Never satisfied with what you have, always wanting more.', signs: ['Impatience, fear of loss', 'Overwork, buying to compensate', 'Reaching the goal and still feeling short'], cure: 'Remedy: Contentment' },
+        { name: 'Ego', voice: '“I must be more.”', text: 'An inflated ego leads to selfishness, arrogance and a lack of empathy: putting your own needs above everything, which breeds conflict.', signs: ['Wounded pride, envy', 'Hard to apologise, hard to listen', 'Constant comparison'], cure: 'Remedy: Humility and gratitude' },
       ],
-      note: 'The Peaceful Way does not ask you to kill desire or erase yourself. The task is to notice and master, not to suppress.',
+      note: 'The task is to recognise and master them: reduce unnecessary desires and live humbly, and you find inner peace and harmony with others.',
     },
     path: {
       h: 'The Path to Peace',
@@ -49,14 +49,14 @@ export default {
     circle: {
       h: 'The Circle of Hiếu Đạo',
       intro: 'An endless cycle that always begins and ends at An, peace. Select each word to see what it means and how to practise it.',
-      labels: { source: 'Source', meaning: 'Interpretation', practice: 'Practice today', ask: 'Ask yourself' },
+      labels: { source: 'Source', meaning: 'Explanation', practice: 'Practice today', ask: 'Ask yourself' },
       nodes: [
-        { key: 'an', name: 'An', gloss: 'Peace · the centre', source: 'The beginning and the end of the circle.', meaning: 'A mind that is steady, clear and sufficient whether or not things go your way. Not the absence of waves, but somewhere to stand when they come.', practice: 'Five minutes of Peaceful Meditation before picking up your phone.', ask: 'Right now, what am I actually lacking?' },
-        { key: 'hieu', name: 'Hiếu', gloss: 'Gratitude to one’s roots', source: 'Respecting and loving one’s parents, elders, and those who have done one good.', meaning: 'The first lesson that you did not make yourself. In a grateful person the Ego shrinks by itself. Hiếu is not blind obedience.', practice: 'Call a parent, or someone who once helped you, and listen.', ask: 'Whom do I owe a thank-you?' },
-        { key: 'dao', name: 'Đạo', gloss: 'The Way', source: 'Pursuing the ethical path.', meaning: 'A consciously chosen direction, replacing drift by habit or by the crowd.', practice: 'Write down your three principles for living.', ask: 'Is this on my path?' },
-        { key: 'duc', name: 'Đức', gloss: 'Virtue', source: 'Developing moral qualities.', meaning: 'Đạo is the direction, Đức is the footsteps: honesty, keeping your word, humility and kindness in small things.', practice: 'Choose one quality to train this week.', ask: 'What did I do right today, and what should I mend?' },
-        { key: 'phuc', name: 'Phúc', gloss: 'Blessing', source: 'Creating and experiencing blessings and happiness from ethical action.', meaning: 'Blessing is not obtained by asking. It is the natural result of virtue: trust, lasting relationships, sound sleep.', practice: 'Do one kind thing nobody needs to know about.', ask: 'What am I leaving for those who come after?' },
-        { key: 'tai', name: 'Tài', gloss: 'Abundance through contentment', source: 'Attaining wealth through contentment, not only in money but in every aspect of life.', meaning: 'Placed last on purpose: wealth comes after ethics and is measured by enough, not by much. Contented abundance feeds peace again.', practice: 'Write down your “enough number”, and the share you will give.', ask: 'For me, how much is enough?' },
+        { key: 'an', name: 'An', gloss: 'Peace · the centre', source: '“An” is the root and the centre. Everything good and of real value in life begins from a peaceful, still inner state.', meaning: 'A mind that is steady, clear and sufficient whether or not things go your way. Not the absence of waves, but somewhere to stand when they come.', practice: 'Five minutes of Peaceful Meditation before picking up your phone.', ask: 'Right now, what am I actually lacking?' },
+        { key: 'hieu', name: 'Hiếu', gloss: 'Filial devotion', source: 'Respecting and loving one’s parents, elders, and those who have done one good.', meaning: 'Hiếu is not something forced by duty or by pressure from money and status. It is a serene inner state that lets your parents feel at ease, and through that you find peace yourself.', practice: 'Call a parent, or someone who once helped you, and listen.', ask: 'Are my parents at ease about me?' },
+        { key: 'dao', name: 'Đạo', gloss: 'The Way', source: 'Pursuing the path of ethics and ideals in life.', meaning: 'A way of living led by inner peace itself. Someone who lives by it is not shaken by outside forces and stays steady through hardship.', practice: 'Write down your three principles for living.', ask: 'Is this on my path?' },
+        { key: 'duc', name: 'Đức', gloss: 'Virtue', source: 'Developing and maintaining noble moral qualities.', meaning: 'Formed from experience and deep self-awareness. Not only outward good qualities, but a balanced soul that is kind and sincere with everyone.', practice: 'Choose one quality to train this week.', ask: 'What did I do right today, and what should I mend?' },
+        { key: 'phuc', name: 'Phúc', gloss: 'Blessing', source: 'Creating and experiencing blessings and happiness from ethical action.', meaning: 'Not only material prosperity, but serenity, fulfilment, harmony in every relationship, and deep meaning in life.', practice: 'Do one kind thing nobody needs to know about.', ask: 'What am I leaving for those who come after?' },
+        { key: 'tai', name: 'Tài', gloss: 'Abundance through contentment', source: 'Attaining wealth through contentment, not only in money but in every aspect of life.', meaning: 'When Blessing is complete, Abundance comes naturally. It is not only material: it is richness of mind and feeling, and the ability to share with the community.', practice: 'Write down your “enough number”, and the share you will give.', ask: 'For me, how much is enough?' },
       ],
     },
     practices: {

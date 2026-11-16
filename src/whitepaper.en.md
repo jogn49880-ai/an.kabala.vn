@@ -1,6 +1,6 @@
 ## Abstract
 
-Đạo An (the Peaceful Way) is a system of thought and a philosophy of living initiated by Kabala in Vietnam. It has one purpose: to help people recognise their own true happiness and live a meaningful life.
+Đạo An (the Peaceful Way) is a system of thought and a philosophy of living initiated by Kabala in Vietnam (source text: Mr.33, Việt Trì, 10 April 2025). Its main purpose: to help people recognise their own true happiness and live a meaningful life.
 
 The whole system rests on four statements:
 
@@ -47,15 +47,19 @@ The Peaceful Way **is not**:
 
 ## 3. Diagnosis: the two roots of suffering
 
-> **Source.** The Peaceful Way is founded on the recognition that all suffering in life originates from greed and the ego. Recognising and mastering these two is the condition for a happy and meaningful life.
+> **Source.** The Peaceful Way is founded on the recognition that all suffering in life originates from greed and the ego. Recognising and mastering greed and the ego is seen as essential to a happy and meaningful life. By reducing unnecessary desires and living humbly, we can find inner peace and harmony in our relationships with others.
 
 ### 3.1 Greed — "not enough"
 
-Greed is not only about money. It is every form of clinging to the thought *I will be fine once I have more*: more possessions, more achievement, more praise, more experiences, even more peace. Its mark is that joy always lives in the future and the present never gets its turn.
+> **Source.** Greed is excessive desire for material things, power, or recognition from others. It is not limited to money and property; it includes the craving for power, fame and attention. Greed means a person never feels satisfied with what they have and always wants more, which leads to unrest and suffering.
+
+**Commentary.** Its mark is that joy always lives in the future and the present never gets its turn.
 
 ### 3.2 Ego — "I must be more"
 
-Ego is the habit of placing one's own image at the centre of everything: being right, winning, being seen. Its marks are being easily hurt, comparing constantly, finding it hard to apologise and hard to listen.
+> **Source.** The ego concerns the self, self-esteem, and how we perceive ourselves in relation to the world around us. An inflated ego can lead to selfishness, arrogance and a lack of empathy. When the ego rules, people place their own needs and wants above everything, which causes conflict and discord.
+
+**Commentary.** Its marks are being easily hurt, comparing constantly, finding it hard to apologise and hard to listen.
 
 ### 3.3 Recognition table
 
@@ -71,9 +75,9 @@ Ego is the habit of placing one's own image at the centre of everything: being r
 
 ## 4. The core principle: Contentment
 
-> **Source.** Contentment means becoming aware of, and satisfied with, what one has, and from that creating peace and harmony in the soul and in life.
+> **Source.** The core of the Peaceful Way is contentment: becoming aware of, and satisfied with, what one has, and from that creating peace and harmony in the soul and in life.
 
-Contentment is often mistaken for resignation. They differ at the root:
+The rest of this section is commentary. Contentment is often mistaken for resignation. They differ at the root:
 
 | | Contentment | Resignation |
 |---|---|---|
@@ -102,41 +106,41 @@ The steps follow in order. Without self-knowledge, happiness is borrowed. Withou
 
 ## 6. The Circle of Hiếu Đạo
 
-> **Source.** The Circle of Hiếu Đạo is the central concept of the Peaceful Way. It consists of Hiếu – Đạo – Đức – Phúc – Tài. It is an endless cycle that always begins and ends at "An".
+> **Source.** The Circle of Hiếu Đạo is the central concept of the Peaceful Way. It consists of Hiếu – Đạo – Đức – Phúc – Tài. Each aspect links harmoniously with the others and forms a continuous cycle between moral values and achievement in life. "An" is the root and the centre: everything good and of real value in life begins from a peaceful, still inner state. It is an endless cycle that always begins and ends at "An".
 
 **An → Hiếu → Đạo → Đức → Phúc → Tài → An**
 
 An sits at the centre: both the starting point and the place of return. The five other words are five stages that peace passes through as it enters daily life.
 
-### 6.1 Hiếu — gratitude to one's roots
+### 6.1 Hiếu — putting one's parents at ease
 
-- **Source:** respecting and loving one's parents, elders, and those who have done one good.
-- **Commentary:** Hiếu (often translated "filial piety") is the first lesson that *I did not make myself*. In someone grateful to their roots, the Ego shrinks by itself. Extended, one's roots include parents, ancestors, teachers, benefactors, community, and the natural world that sustains us.
+- **Source:** respecting and loving one's parents, elders, and those who have done one good. Hiếu is not something forced by duty or by pressure from money and status; it is a serene inner state that lets one's parents feel at ease, and through that we find real peace ourselves.
+- **Commentary:** Hiếu (often translated "filial piety") is also the first lesson that *I did not make myself*. In someone grateful to their roots, the Ego shrinks by itself. Extended, one's roots include parents, ancestors, teachers, benefactors, community, and the natural world that sustains us.
 - **Practice:** call and listen to your parents; say specific thanks; care for them while you can; remember those who have died.
 - **Avoid misreading:** Hiếu is not blind obedience, and it never obliges anyone to endure abuse. It is gratitude and responsibility, exercised with clear judgement.
 
 ### 6.2 Đạo — the Way
 
-- **Source:** pursuing the ethical path.
-- **Commentary:** out of gratitude comes the question "how should I live to be worthy of this?" Đạo is a consciously chosen direction, replacing drift by habit or by the crowd.
+- **Source:** pursuing the path of ethics and ideals in life. Đạo is the way of living led by inner peace itself; a person who lives by it is not shaken by outside forces and stays steady and serene through hardship.
+- **Commentary:** Đạo is a consciously chosen direction, replacing drift by habit or by the crowd.
 - **Practice:** write down your three principles for living; before a major decision ask "is this on my path?"
 
 ### 6.3 Đức — Virtue
 
-- **Source:** developing moral qualities.
-- **Commentary:** Đạo is the direction; Đức is the footsteps. Virtue forms by repeating the right thing in small matters: honesty, keeping one's word, humility, kindness, patience.
+- **Source:** developing and maintaining noble moral qualities. Đức is formed from experience and deep self-awareness; it is not only outward good qualities but a balanced soul, kind and sincere with everyone.
+- **Commentary:** Đạo is the direction; Đức is the footsteps. Virtue grows by repeating the right thing in small matters: honesty, keeping one's word, humility, kindness, patience.
 - **Practice:** choose one quality to train each week; each evening review one thing done well and one thing to mend.
 
 ### 6.4 Phúc — Blessing
 
-- **Source:** creating and experiencing blessings and happiness from ethical action.
-- **Commentary:** Phúc is not obtained by asking. It is the natural result of Virtue: other people's trust, lasting relationships, sound sleep, a harmonious home. It is also what one leaves for those who come after.
+- **Source:** creating and experiencing blessings and happiness from ethical action. Phúc is not only material prosperity; above all it is serenity, fulfilment, harmony in every relationship, and deep meaning in life.
+- **Commentary:** Phúc is not obtained by asking. It comes from Virtue: other people's trust, lasting relationships, sound sleep, a harmonious home. It is also what one leaves for those who come after.
 - **Practice:** one kind act a day that nobody needs to know about.
 
 ### 6.5 Tài — Abundance through contentment
 
-- **Source:** attaining wealth through contentment, not only in money but in every aspect of life.
-- **Commentary:** Tài is placed last on purpose: wealth comes after ethics and is defined by *enough*, not by *much*. It includes money, talent, time, health and relationships. Wealth earned honestly, used well and shared feeds Peace again; wealth with no stopping point pulls a person back into Greed.
+- **Source:** attaining wealth through contentment, not only in money but in every aspect of life. When Phúc is complete, Tài comes naturally; it is not only material but a richness of mind and feeling, and the ability to share with the community.
+- **Commentary:** Tài comes last in the circle: wealth follows ethics and is defined by *enough*, not by *much*. Wealth earned honestly, used well and shared feeds Peace again; wealth with no stopping point pulls a person back into Greed.
 - **Practice:** define your own "enough number"; set aside a fixed share to give; do not earn by means you are ashamed of.
 
 ### 6.6 Why a circle
@@ -161,6 +165,10 @@ Peaceful Meditation is not only for sitting. While working, give the task your w
 > **Commentary — suggested dose.** Start with 5 minutes each morning and build towards 15–20. Add three "one-minute pauses" during the day: before picking up your phone in the morning, before lunch, before sleep.
 
 ### 7.2 Contentment (Biết Đủ)
+
+> **Source.** Aim for gratitude and satisfaction with what you already have.
+
+The exercises below are commentary:
 
 - **Three enoughs each evening:** write three things you had enough of today.
 - **The question before buying or taking on more:** "Do I need this, or want it? Once I have it, will I be more at peace?"
@@ -255,7 +263,8 @@ History shows that new spiritual movements easily slide into personality cults o
 
 ## 12. Limits and open questions
 
-- The Peaceful Way is at an early stage; the source material describes itself as a draft still being completed.
+- The Peaceful Way is at an early stage; the source text (Mr.33, Việt Trì, 10 April 2025) describes itself as a draft still being completed.
+- The source says the Peaceful Way not only helps individuals grow morally and spiritually but also aims at a peaceful, harmonious society; that social side has not yet been worked out in detail.
 - No independent research has yet measured the effect of these practices. A sensible first step is to record practitioners' experience systematically.
 - "All suffering comes from Greed and Ego" is a statement about *psychological* suffering. Pain from illness, poverty, violence and injustice must be met with practical action; the Peaceful Way helps us not to add inner suffering on top of it.
 - Rites, stories and organisational structure still need to be built together by the community.
